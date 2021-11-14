@@ -8,7 +8,6 @@ class ArkInterceptor():
     Servers = {"ak-gs-localhost.hypergryph.com": ("ak-gs.hypergryph.com", 8443),
                "ak-gs-b-localhost.hypergryph.com": ("ak-gs.hypergryph.com", 8443),
                "ak-as-localhost.hypergryph.com": ("ak-as.hypergryph.com", 9443)}
-else:
     Servers = {"ak-gs-localhost.hypergryph.com": (remote_server, 9443),
                    "ak-gs-gf.hypergryph.com": (remote_server, 9443),
                    "ak-gs-b-localhost.hypergryph.com": (remote_server, 9443),
