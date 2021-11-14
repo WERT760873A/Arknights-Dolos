@@ -8,18 +8,8 @@ class ArkInterceptor():
     Servers = {"ak-gs-localhost.hypergryph.com": ("ak-gs.hypergryph.com", 8443),
                "ak-gs-b-localhost.hypergryph.com": ("ak-gs.hypergryph.com", 8443),
                "ak-as-localhost.hypergryph.com": ("ak-as.hypergryph.com", 9443)}
-    Servers = {"ak-gs-localhost.hypergryph.com": (remote_server, 9443),
-                   "ak-gs-gf.hypergryph.com": (remote_server, 9443),
-                   "ak-gs-b-localhost.hypergryph.com": (remote_server, 9443),
-                   "ak-as-localhost.hypergryph.com": (remote_server, 9443),
-                   "as.hypergryph.com": (remote_server, 9443),
-                   "bi-track.hypergryph.com": (remote_server, 9443),
-                   "gv1.xdrig.com": (remote_server, 9443),
-                   "me.xdrig.com": (remote_server, 9443),
-                   "ak-fs.hypergryph.com": (remote_server, 9443)
-                   }
-        
-    ServersList = [key for key in Servers.keys()] + [val[0] for val in Servers.values()]
+
+ServersList = [key for key in Servers.keys()] + [val[0] for val in Servers.values()]
 
     tBuilder = None # type:troopBuilder
     cBuilder = characterBuilder.init()
