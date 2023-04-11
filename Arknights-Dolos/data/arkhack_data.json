@@ -1,0 +1,5912 @@
+{
+  "character": {
+    "char_285_medic2": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "char_285_medic2#1",
+        "char_285_medic2@boc#4"
+      ]
+    },
+    "char_286_cast3": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "char_286_cast3#1",
+        "char_286_cast3@summer#1"
+      ]
+    },
+    "char_376_therex": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "char_376_therex#1"
+      ]
+    },
+    "char_4000_jnight": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "char_4000_jnight#1"
+      ]
+    },
+    "char_4077_palico": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "char_4077_palico#1",
+        "char_4077_palico@mh#1"
+      ]
+    },
+    "char_4091_ulika": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "char_4091_ulika#1"
+      ]
+    },
+    "char_502_nblade": {
+      "rarity": 1,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "char_502_nblade#1"
+      ]
+    },
+    "char_500_noirc": {
+      "rarity": 1,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "char_500_noirc#1"
+      ]
+    },
+    "char_503_rang": {
+      "rarity": 1,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "char_503_rang#1"
+      ]
+    },
+    "char_501_durin": {
+      "rarity": 1,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "char_501_durin#1"
+      ]
+    },
+    "char_009_12fce": {
+      "rarity": 1,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "char_009_12fce#1"
+      ]
+    },
+    "char_123_fang": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skcom_charge_cost[1]"
+      ],
+      "skins": [
+        "char_123_fang#1",
+        "char_123_fang@winter#1"
+      ]
+    },
+    "char_240_wyvern": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skchr_wyvern_1"
+      ],
+      "skins": [
+        "char_240_wyvern#1"
+      ]
+    },
+    "char_504_rguard": {
+      "rarity": 2,
+      "obtainable": false,
+      "skills": [],
+      "skins": [
+        "char_504_rguard#1"
+      ]
+    },
+    "char_192_falco": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skcom_quickattack[1]"
+      ],
+      "skins": [
+        "char_192_falco#1"
+      ]
+    },
+    "char_208_melan": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[1]"
+      ],
+      "skins": [
+        "char_208_melan#1",
+        "char_208_melan@epoque#1"
+      ]
+    },
+    "char_281_popka": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[1]"
+      ],
+      "skins": [
+        "char_281_popka#1"
+      ]
+    },
+    "char_209_ardign": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skcom_heal_self[1]"
+      ],
+      "skins": [
+        "char_209_ardign#1",
+        "char_209_ardign@snow#1"
+      ]
+    },
+    "char_122_beagle": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skcom_def_up[1]"
+      ],
+      "skins": [
+        "char_122_beagle#1",
+        "char_122_beagle@boc#1"
+      ]
+    },
+    "char_514_rdfend": {
+      "rarity": 2,
+      "obtainable": false,
+      "skills": [],
+      "skins": [
+        "char_514_rdfend#1"
+      ]
+    },
+    "char_284_spot": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skchr_spot_1"
+      ],
+      "skins": [
+        "char_284_spot#1",
+        "char_284_spot@boc#3"
+      ]
+    },
+    "char_124_kroos": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skchr_kroos_1"
+      ],
+      "skins": [
+        "char_124_kroos#1",
+        "char_124_kroos@witch#1"
+      ]
+    },
+    "char_211_adnach": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[1]"
+      ],
+      "skins": [
+        "char_211_adnach#1",
+        "char_211_adnach@sale#5"
+      ]
+    },
+    "char_507_rsnipe": {
+      "rarity": 2,
+      "obtainable": false,
+      "skills": [],
+      "skins": [
+        "char_507_rsnipe#1"
+      ]
+    },
+    "char_121_lava": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skcom_magic_rage[1]"
+      ],
+      "skins": [
+        "char_121_lava#1"
+      ]
+    },
+    "char_120_hibisc": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skcom_heal_up[1]"
+      ],
+      "skins": [
+        "char_120_hibisc#1",
+        "char_120_hibisc@nian#1"
+      ]
+    },
+    "char_212_ansel": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skcom_range_extend"
+      ],
+      "skins": [
+        "char_212_ansel#1",
+        "char_212_ansel@summer#1"
+      ]
+    },
+    "char_506_rmedic": {
+      "rarity": 2,
+      "obtainable": false,
+      "skills": [],
+      "skins": [
+        "char_506_rmedic#1"
+      ]
+    },
+    "char_210_stward": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skchr_stward_1"
+      ],
+      "skins": [
+        "char_210_stward#1",
+        "char_210_stward@sale#6"
+      ]
+    },
+    "char_505_rcast": {
+      "rarity": 2,
+      "obtainable": false,
+      "skills": [],
+      "skins": [
+        "char_505_rcast#1"
+      ]
+    },
+    "char_278_orchid": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skcom_quickattack[1]"
+      ],
+      "skins": [
+        "char_278_orchid#1"
+      ]
+    },
+    "char_141_nights": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[2]",
+        "skchr_nights_2"
+      ],
+      "skins": [
+        "char_141_nights#1",
+        "char_141_nights#2"
+      ]
+    },
+    "char_109_fmout": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_magic_rage[2]",
+        "skchr_fmout_2"
+      ],
+      "skins": [
+        "char_109_fmout#1",
+        "char_109_fmout#2",
+        "char_109_fmout@epoque#2"
+      ]
+    },
+    "char_253_greyy": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_magic_rage[2]",
+        "skchr_greyy_2"
+      ],
+      "skins": [
+        "char_253_greyy#1",
+        "char_253_greyy#2",
+        "char_253_greyy@epoque#8"
+      ]
+    },
+    "char_328_cammou": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[2]",
+        "skchr_cammou_2"
+      ],
+      "skins": [
+        "char_328_cammou#1",
+        "char_328_cammou#2",
+        "char_328_cammou@witch#2"
+      ]
+    },
+    "char_469_indigo": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_indigo_1",
+        "skchr_indigo_2"
+      ],
+      "skins": [
+        "char_469_indigo#1",
+        "char_469_indigo#2",
+        "char_469_indigo@nian#7"
+      ]
+    },
+    "char_4004_pudd": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_magic_rage[2]",
+        "skchr_pudd_2"
+      ],
+      "skins": [
+        "char_4004_pudd#1",
+        "char_4004_pudd#2",
+        "char_4004_pudd@snow#5"
+      ]
+    },
+    "char_235_jesica": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_jesica_1",
+        "skchr_jesica_2"
+      ],
+      "skins": [
+        "char_235_jesica#1",
+        "char_235_jesica#2",
+        "char_235_jesica@nian#2",
+        "char_235_jesica@wild#2",
+        "char_235_jesica@sweep#1"
+      ]
+    },
+    "char_126_shotst": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_shotst_1",
+        "skchr_shotst_2"
+      ],
+      "skins": [
+        "char_126_shotst#1",
+        "char_126_shotst#2",
+        "char_126_shotst@epoque#10"
+      ]
+    },
+    "char_190_clour": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[2]",
+        "skchr_clour_2"
+      ],
+      "skins": [
+        "char_190_clour#1",
+        "char_190_clour#2"
+      ]
+    },
+    "char_133_mm": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_mm_1",
+        "skchr_mm_2"
+      ],
+      "skins": [
+        "char_133_mm#1",
+        "char_133_mm#2"
+      ]
+    },
+    "char_118_yuki": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_yuki_1",
+        "skchr_yuki_2"
+      ],
+      "skins": [
+        "char_118_yuki#1",
+        "char_118_yuki#2",
+        "char_118_yuki@boc#2"
+      ]
+    },
+    "char_440_pinecn": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_pinecn_1",
+        "skchr_pinecn_2"
+      ],
+      "skins": [
+        "char_440_pinecn#1",
+        "char_440_pinecn#2",
+        "char_440_pinecn@shining#1"
+      ]
+    },
+    "char_302_glaze": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_glaze_1",
+        "skchr_glaze_2"
+      ],
+      "skins": [
+        "char_302_glaze#1",
+        "char_302_glaze#2"
+      ]
+    },
+    "char_366_acdrop": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_acdrop_1",
+        "skchr_acdrop_2"
+      ],
+      "skins": [
+        "char_366_acdrop#1",
+        "char_366_acdrop#2",
+        "char_366_acdrop@whirlwind#4"
+      ]
+    },
+    "char_4062_totter": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_totter_1",
+        "skchr_totter_2"
+      ],
+      "skins": [
+        "char_4062_totter#1",
+        "char_4062_totter#2"
+      ]
+    },
+    "char_198_blackd": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_charge_cost[2]",
+        "skchr_blackd_2"
+      ],
+      "skins": [
+        "char_198_blackd#1",
+        "char_198_blackd#2",
+        "char_198_blackd@winter#1",
+        "char_198_blackd@as#1"
+      ]
+    },
+    "char_149_scave": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_charge_cost[2]",
+        "skchr_scave_2"
+      ],
+      "skins": [
+        "char_149_scave#1",
+        "char_149_scave#2",
+        "char_149_scave@striker#2"
+      ]
+    },
+    "char_290_vigna": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_vigna_1",
+        "skchr_vigna_2"
+      ],
+      "skins": [
+        "char_290_vigna#1",
+        "char_290_vigna#2",
+        "char_290_vigna@summer#1",
+        "char_290_vigna@as#1"
+      ]
+    },
+    "char_151_myrtle": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_assist_cost[2]",
+        "skchr_myrtle_2"
+      ],
+      "skins": [
+        "char_151_myrtle#1",
+        "char_151_myrtle#2",
+        "char_151_myrtle@epoque#12"
+      ]
+    },
+    "char_452_bstalk": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_bstalk_1",
+        "skchr_bstalk_2"
+      ],
+      "skins": [
+        "char_452_bstalk#1",
+        "char_452_bstalk#2",
+        "char_452_bstalk@snow#4"
+      ]
+    },
+    "char_130_doberm": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_doberm_1",
+        "skchr_doberm_2"
+      ],
+      "skins": [
+        "char_130_doberm#1",
+        "char_130_doberm#2",
+        "char_130_doberm@epoque#7"
+      ]
+    },
+    "char_289_gyuki": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_heal_self[2]",
+        "skchr_gyuki_2"
+      ],
+      "skins": [
+        "char_289_gyuki#1",
+        "char_289_gyuki#2"
+      ]
+    },
+    "char_159_peacok": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_peacok_1",
+        "skchr_peacok_2"
+      ],
+      "skins": [
+        "char_159_peacok#1",
+        "char_159_peacok#2",
+        "char_159_peacok@game#1"
+      ]
+    },
+    "char_193_frostl": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_frostl_1",
+        "skchr_frostl_2"
+      ],
+      "skins": [
+        "char_193_frostl#1",
+        "char_193_frostl#2",
+        "char_193_frostl@boc#4"
+      ]
+    },
+    "char_127_estell": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[2]",
+        "skchr_estell_2"
+      ],
+      "skins": [
+        "char_127_estell#1",
+        "char_127_estell#2"
+      ]
+    },
+    "char_185_frncat": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_frncat_1",
+        "skchr_frncat_2"
+      ],
+      "skins": [
+        "char_185_frncat#1",
+        "char_185_frncat#2",
+        "char_185_frncat@wild#7"
+      ]
+    },
+    "char_301_cutter": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_cutter_1",
+        "skchr_cutter_2"
+      ],
+      "skins": [
+        "char_301_cutter#1",
+        "char_301_cutter#2"
+      ]
+    },
+    "char_337_utage": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_utage_1",
+        "skchr_utage_2"
+      ],
+      "skins": [
+        "char_337_utage#1",
+        "char_337_utage#2",
+        "char_337_utage@epoque#15",
+        "char_337_utage@summer#4"
+      ]
+    },
+    "char_271_spikes": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_spikes_1",
+        "skchr_spikes_2"
+      ],
+      "skins": [
+        "char_271_spikes#1",
+        "char_271_spikes#2",
+        "char_271_spikes@winter#2"
+      ]
+    },
+    "char_4067_lolxh": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_lolxh_1",
+        "skchr_lolxh_2"
+      ],
+      "skins": [
+        "char_4067_lolxh#1",
+        "char_4067_lolxh#2"
+      ]
+    },
+    "char_4063_quartz": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[2]",
+        "skchr_quartz_2"
+      ],
+      "skins": [
+        "char_4063_quartz#1",
+        "char_4063_quartz#2"
+      ]
+    },
+    "char_491_humus": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_humus_1",
+        "skchr_humus_2"
+      ],
+      "skins": [
+        "char_491_humus#1",
+        "char_491_humus#2"
+      ]
+    },
+    "char_237_gravel": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_gravel_1",
+        "skchr_gravel_2"
+      ],
+      "skins": [
+        "char_237_gravel#1",
+        "char_237_gravel#2",
+        "char_237_gravel@winter#2"
+      ]
+    },
+    "char_272_strong": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_strong_1",
+        "skchr_strong_2"
+      ],
+      "skins": [
+        "char_272_strong#1",
+        "char_272_strong#2",
+        "char_272_strong@summer#6"
+      ]
+    },
+    "char_236_rope": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_rope_1",
+        "skchr_rope_2"
+      ],
+      "skins": [
+        "char_236_rope#1",
+        "char_236_rope#2",
+        "char_236_rope@summer#2",
+        "char_236_rope@witch#1"
+      ]
+    },
+    "char_117_myrrh": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_myrrh_1",
+        "skchr_myrrh_2"
+      ],
+      "skins": [
+        "char_117_myrrh#1",
+        "char_117_myrrh#2",
+        "char_117_myrrh@wild#1"
+      ]
+    },
+    "char_187_ccheal": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_ccheal_1",
+        "skchr_ccheal_2"
+      ],
+      "skins": [
+        "char_187_ccheal#1",
+        "char_187_ccheal#2",
+        "char_187_ccheal@epoque#2"
+      ]
+    },
+    "char_298_susuro": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_heal_up[2]",
+        "skchr_susuro_2"
+      ],
+      "skins": [
+        "char_298_susuro#1",
+        "char_298_susuro#2",
+        "char_298_susuro@summer#6"
+      ]
+    },
+    "char_181_flower": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_heal_up[2]",
+        "skchr_flower_2"
+      ],
+      "skins": [
+        "char_181_flower#1",
+        "char_181_flower#2",
+        "char_181_flower@daily#1",
+        "char_181_flower@epoque#9"
+      ]
+    },
+    "char_385_finlpp": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_finlpp_1",
+        "skchr_finlpp_2"
+      ],
+      "skins": [
+        "char_385_finlpp#1",
+        "char_385_finlpp#2"
+      ]
+    },
+    "char_4041_chnut": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_chnut_1",
+        "skchr_chnut_2"
+      ],
+      "skins": [
+        "char_4041_chnut#1",
+        "char_4041_chnut#2"
+      ]
+    },
+    "char_199_yak": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_yak_1",
+        "skchr_yak_2"
+      ],
+      "skins": [
+        "char_199_yak#1",
+        "char_199_yak#2",
+        "char_199_yak@summer#1"
+      ]
+    },
+    "char_150_snakek": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_def_up[2]",
+        "skchr_snakek_2"
+      ],
+      "skins": [
+        "char_150_snakek#1",
+        "char_150_snakek#2",
+        "char_150_snakek@wild#1"
+      ]
+    },
+    "char_381_bubble": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_def_up[2]",
+        "skchr_bubble_2"
+      ],
+      "skins": [
+        "char_381_bubble#1",
+        "char_381_bubble#2"
+      ]
+    },
+    "char_196_sunbr": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_sunbr_1",
+        "skchr_sunbr_2"
+      ],
+      "skins": [
+        "char_196_sunbr#1",
+        "char_196_sunbr#2",
+        "char_196_sunbr@summer#1"
+      ]
+    },
+    "char_260_durnar": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[2]",
+        "skchr_durnar_2"
+      ],
+      "skins": [
+        "char_260_durnar#1",
+        "char_260_durnar#2"
+      ]
+    },
+    "char_110_deepcl": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_deepcl_1",
+        "skchr_deepcl_2"
+      ],
+      "skins": [
+        "char_110_deepcl#1",
+        "char_110_deepcl#2",
+        "char_110_deepcl@winter#3"
+      ]
+    },
+    "char_183_skgoat": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[2]",
+        "skchr_skgoat_2"
+      ],
+      "skins": [
+        "char_183_skgoat#1",
+        "char_183_skgoat#2"
+      ]
+    },
+    "char_258_podego": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_podego_1",
+        "skchr_podego_2"
+      ],
+      "skins": [
+        "char_258_podego#1",
+        "char_258_podego#2",
+        "char_258_podego@epoque#9"
+      ]
+    },
+    "char_484_robrta": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_robrta_1",
+        "skchr_robrta_2"
+      ],
+      "skins": [
+        "char_484_robrta#1",
+        "char_484_robrta#2",
+        "char_484_robrta@summer#10"
+      ]
+    },
+    "char_355_ethan": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_ethan_1",
+        "skchr_ethan_2"
+      ],
+      "skins": [
+        "char_355_ethan#1",
+        "char_355_ethan#2",
+        "char_355_ethan@epoque#7"
+      ]
+    },
+    "char_277_sqrrel": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_sqrrel_1",
+        "skchr_sqrrel_2"
+      ],
+      "skins": [
+        "char_277_sqrrel#1",
+        "char_277_sqrrel#2",
+        "char_277_sqrrel@ghost#1"
+      ]
+    },
+    "char_128_plosis": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_heal_up[3]",
+        "skchr_plosis_2"
+      ],
+      "skins": [
+        "char_128_plosis#1",
+        "char_128_plosis#2",
+        "char_128_plosis@epoque#3"
+      ]
+    },
+    "char_275_breeze": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_breeze_1",
+        "skchr_breeze_2"
+      ],
+      "skins": [
+        "char_275_breeze#1",
+        "char_275_breeze#2"
+      ]
+    },
+    "char_115_headbr": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_charge_cost[3]",
+        "skchr_headbr_2"
+      ],
+      "skins": [
+        "char_115_headbr#1",
+        "char_115_headbr#2",
+        "char_115_headbr@marthe#2",
+        "char_115_headbr@it#1"
+      ]
+    },
+    "char_102_texas": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_charge_cost[3]",
+        "skchr_texas_2"
+      ],
+      "skins": [
+        "char_102_texas#1",
+        "char_102_texas#2",
+        "char_102_texas@epoque#7",
+        "char_102_texas@winter#1"
+      ]
+    },
+    "char_349_chiave": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_charge_cost[3]",
+        "skchr_chiave_2"
+      ],
+      "skins": [
+        "char_349_chiave#1",
+        "char_349_chiave#2"
+      ]
+    },
+    "char_513_apionr": {
+      "rarity": 4,
+      "obtainable": false,
+      "skills": [
+        "skchr_apionr_1"
+      ],
+      "skins": [
+        "char_513_apionr#1",
+        "char_513_apionr#2"
+      ]
+    },
+    "char_261_sddrag": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_quickattack[3]",
+        "skchr_sddrag_2"
+      ],
+      "skins": [
+        "char_261_sddrag#1",
+        "char_261_sddrag#2",
+        "char_261_sddrag@ambienceSynesthesia#2"
+      ]
+    },
+    "char_496_wildmn": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_wildmn_1",
+        "skchr_wildmn_2"
+      ],
+      "skins": [
+        "char_496_wildmn#1",
+        "char_496_wildmn#2",
+        "char_496_wildmn@epoque#16"
+      ]
+    },
+    "char_401_elysm": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_assist_cost[3]",
+        "skchr_elysm_2"
+      ],
+      "skins": [
+        "char_401_elysm#1",
+        "char_401_elysm#2",
+        "char_401_elysm@summer#9",
+        "char_401_elysm@snow#2"
+      ]
+    },
+    "char_476_blkngt": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_blkngt_1",
+        "skchr_blkngt_2"
+      ],
+      "skins": [
+        "char_476_blkngt#1",
+        "char_476_blkngt#2",
+        "char_476_blkngt@nian#8",
+        "char_476_blkngt@summer#8"
+      ]
+    },
+    "char_497_ctable": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_ctable_1",
+        "skchr_ctable_2"
+      ],
+      "skins": [
+        "char_497_ctable#1",
+        "char_497_ctable#2",
+        "char_497_ctable@nian#9"
+      ]
+    },
+    "char_4017_puzzle": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_puzzle_1",
+        "skchr_puzzle_2"
+      ],
+      "skins": [
+        "char_4017_puzzle#1",
+        "char_4017_puzzle#2"
+      ]
+    },
+    "char_308_swire": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_swire_1",
+        "skchr_swire_2"
+      ],
+      "skins": [
+        "char_308_swire#1",
+        "char_308_swire#2",
+        "char_308_swire@nian#2"
+      ]
+    },
+    "char_265_sophia": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_sophia_1",
+        "skchr_sophia_2"
+      ],
+      "skins": [
+        "char_265_sophia#1",
+        "char_265_sophia#2",
+        "char_265_sophia@epoque#11"
+      ]
+    },
+    "char_106_franka": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_quickattack[3]",
+        "skchr_franka_2"
+      ],
+      "skins": [
+        "char_106_franka#1",
+        "char_106_franka#2"
+      ]
+    },
+    "char_131_flameb": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_flameb_1",
+        "skchr_flameb_2"
+      ],
+      "skins": [
+        "char_131_flameb#1",
+        "char_131_flameb#2",
+        "char_131_flameb@summer#8"
+      ]
+    },
+    "char_154_morgan": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_morgan_1",
+        "skchr_morgan_2"
+      ],
+      "skins": [
+        "char_154_morgan#1",
+        "char_154_morgan#2"
+      ]
+    },
+    "char_508_aguard": {
+      "rarity": 4,
+      "obtainable": false,
+      "skills": [
+        "skchr_aguard_1"
+      ],
+      "skins": [
+        "char_508_aguard#1"
+      ]
+    },
+    "char_155_tiger": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_tiger_1",
+        "skchr_tiger_2"
+      ],
+      "skins": [
+        "char_155_tiger#1",
+        "char_155_tiger#2",
+        "char_155_tiger@striker#2"
+      ]
+    },
+    "char_415_flint": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_flint_1",
+        "skchr_flint_2"
+      ],
+      "skins": [
+        "char_415_flint#1",
+        "char_415_flint#2",
+        "char_415_flint@boc#3"
+      ]
+    },
+    "char_157_dagda": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_dagda_1",
+        "skchr_dagda_2"
+      ],
+      "skins": [
+        "char_157_dagda#1",
+        "char_157_dagda#2"
+      ]
+    },
+    "char_140_whitew": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_whitew_1",
+        "skchr_whitew_2"
+      ],
+      "skins": [
+        "char_140_whitew#1",
+        "char_140_whitew#2",
+        "char_140_whitew@boc#1"
+      ]
+    },
+    "char_294_ayer": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_ayer_1",
+        "skchr_ayer_2"
+      ],
+      "skins": [
+        "char_294_ayer#1",
+        "char_294_ayer#2",
+        "char_294_ayer@boc#3"
+      ]
+    },
+    "char_4083_chimes": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[3]",
+        "skchr_chimes_2"
+      ],
+      "skins": [
+        "char_4083_chimes#1",
+        "char_4083_chimes#2"
+      ]
+    },
+    "char_252_bibeak": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_bibeak_1",
+        "skchr_bibeak_2"
+      ],
+      "skins": [
+        "char_252_bibeak#1",
+        "char_252_bibeak#2",
+        "char_252_bibeak@winter#2"
+      ]
+    },
+    "char_459_tachak": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_tachak_1",
+        "skchr_tachak_2"
+      ],
+      "skins": [
+        "char_459_tachak#1",
+        "char_459_tachak#2",
+        "char_459_tachak@rainbow6#1"
+      ]
+    },
+    "char_143_ghost": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[3]",
+        "skchr_ghost_2"
+      ],
+      "skins": [
+        "char_143_ghost#1",
+        "char_143_ghost#2",
+        "char_143_ghost@winter#1"
+      ]
+    },
+    "char_356_broca": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_broca_1",
+        "skchr_broca_2"
+      ],
+      "skins": [
+        "char_356_broca#1",
+        "char_356_broca#2",
+        "char_356_broca@marthe#4"
+      ]
+    },
+    "char_274_astesi": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_astesi_1",
+        "skchr_astesi_2"
+      ],
+      "skins": [
+        "char_274_astesi#1",
+        "char_274_astesi#2",
+        "char_274_astesi@epoque#5",
+        "char_274_astesi@epoque#23",
+        "char_274_astesi@shining#1"
+      ]
+    },
+    "char_333_sidero": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_heal_self[3]",
+        "skchr_sidero_2"
+      ],
+      "skins": [
+        "char_333_sidero#1",
+        "char_333_sidero#2",
+        "char_333_sidero@summer#6"
+      ]
+    },
+    "char_475_akafyu": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_akafyu_1",
+        "skchr_akafyu_2"
+      ],
+      "skins": [
+        "char_475_akafyu#1",
+        "char_475_akafyu#2",
+        "char_475_akafyu@epoque#15"
+      ]
+    },
+    "char_1030_noirc2": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_noirc2_1",
+        "skchr_noirc2_2"
+      ],
+      "skins": [
+        "char_1030_noirc2#1",
+        "char_1030_noirc2#2"
+      ]
+    },
+    "char_421_crow": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_crow_1",
+        "skchr_crow_2"
+      ],
+      "skins": [
+        "char_421_crow#1",
+        "char_421_crow#2",
+        "char_421_crow@summer#9"
+      ]
+    },
+    "char_4066_highmo": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_highmo_1",
+        "skchr_highmo_2"
+      ],
+      "skins": [
+        "char_4066_highmo#1",
+        "char_4066_highmo#2"
+      ]
+    },
+    "char_486_takila": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_takila_1",
+        "skchr_takila_2"
+      ],
+      "skins": [
+        "char_486_takila#1",
+        "char_486_takila#2",
+        "char_486_takila@ambienceSynesthesia#2"
+      ]
+    },
+    "char_129_bluep": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_bluep_1",
+        "skchr_bluep_2"
+      ],
+      "skins": [
+        "char_129_bluep#1",
+        "char_129_bluep#2",
+        "char_129_bluep@marthe#3"
+      ]
+    },
+    "char_204_platnm": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[3]",
+        "skchr_platnm_2"
+      ],
+      "skins": [
+        "char_204_platnm#1",
+        "char_204_platnm#2",
+        "char_204_platnm@summer#3"
+      ]
+    },
+    "char_367_swllow": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_swllow_1",
+        "skchr_swllow_2"
+      ],
+      "skins": [
+        "char_367_swllow#1",
+        "char_367_swllow#2",
+        "char_367_swllow@boc#1"
+      ]
+    },
+    "char_511_asnipe": {
+      "rarity": 4,
+      "obtainable": false,
+      "skills": [
+        "skchr_asnipe_1"
+      ],
+      "skins": [
+        "char_511_asnipe#1"
+      ]
+    },
+    "char_365_aprl": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_aprl_1",
+        "skchr_aprl_2"
+      ],
+      "skins": [
+        "char_365_aprl#1",
+        "char_365_aprl#2",
+        "char_365_aprl@wild#3"
+      ]
+    },
+    "char_1021_kroos2": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_kroos2_1",
+        "skchr_kroos2_2"
+      ],
+      "skins": [
+        "char_1021_kroos2#1",
+        "char_1021_kroos2#2",
+        "char_1021_kroos2@nian#8"
+      ]
+    },
+    "char_219_meteo": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_meteo_1",
+        "skchr_meteo_2"
+      ],
+      "skins": [
+        "char_219_meteo#1",
+        "char_219_meteo#2",
+        "char_219_meteo@sweep#1"
+      ]
+    },
+    "char_379_sesa": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[3]",
+        "skchr_sesa_2"
+      ],
+      "skins": [
+        "char_379_sesa#1",
+        "char_379_sesa#2"
+      ]
+    },
+    "char_4078_bdhkgt": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_bdhkgt_1",
+        "skchr_bdhkgt_2"
+      ],
+      "skins": [
+        "char_4078_bdhkgt#1",
+        "char_4078_bdhkgt#2"
+      ]
+    },
+    "char_279_excu": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_excu_1",
+        "skchr_excu_2"
+      ],
+      "skins": [
+        "char_279_excu#1",
+        "char_279_excu#2",
+        "char_279_excu@boc#1"
+      ]
+    },
+    "char_346_aosta": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_quickattack[3]",
+        "skchr_aosta_2"
+      ],
+      "skins": [
+        "char_346_aosta#1",
+        "char_346_aosta#2",
+        "char_346_aosta@game#2"
+      ]
+    },
+    "char_002_amiya": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_magic_rage[3]",
+        "skchr_amiya_2",
+        "skchr_amiya_3"
+      ],
+      "skins": [
+        "char_002_amiya#1",
+        "char_002_amiya#1+",
+        "char_002_amiya#2",
+        "char_002_amiya@winter#1",
+        "char_002_amiya@epoque#4",
+        "char_002_amiya@test#1",
+        "char_1001_amiya2#2"
+      ]
+    },
+    "char_405_absin": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_absin_1",
+        "skchr_absin_2"
+      ],
+      "skins": [
+        "char_405_absin#1",
+        "char_405_absin#2"
+      ]
+    },
+    "char_411_tomimi": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_tomimi_1",
+        "skchr_tomimi_2"
+      ],
+      "skins": [
+        "char_411_tomimi#1",
+        "char_411_tomimi#2",
+        "char_411_tomimi@summer#5"
+      ]
+    },
+    "char_466_qanik": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_qanik_1",
+        "skchr_qanik_2"
+      ],
+      "skins": [
+        "char_466_qanik#1",
+        "char_466_qanik#2"
+      ]
+    },
+    "char_166_skfire": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[3]",
+        "skchr_skfire_2"
+      ],
+      "skins": [
+        "char_166_skfire#1",
+        "char_166_skfire#2",
+        "char_166_skfire@summer#1"
+      ]
+    },
+    "char_509_acast": {
+      "rarity": 4,
+      "obtainable": false,
+      "skills": [
+        "skchr_acast_1"
+      ],
+      "skins": [
+        "char_509_acast#1"
+      ]
+    },
+    "char_306_leizi": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[3]",
+        "skchr_leizi_2"
+      ],
+      "skins": [
+        "char_306_leizi#1",
+        "char_306_leizi#2"
+      ]
+    },
+    "char_135_halo": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_halo_1",
+        "skchr_halo_2"
+      ],
+      "skins": [
+        "char_135_halo#1",
+        "char_135_halo#2"
+      ]
+    },
+    "char_344_beewax": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_beewax_1",
+        "skchr_beewax_2"
+      ],
+      "skins": [
+        "char_344_beewax#1",
+        "char_344_beewax#2",
+        "char_344_beewax@epoque#9"
+      ]
+    },
+    "char_373_lionhd": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[3]",
+        "skchr_lionhd_2"
+      ],
+      "skins": [
+        "char_373_lionhd#1",
+        "char_373_lionhd#2",
+        "char_373_lionhd@snow#3",
+        "char_373_lionhd@wild#3"
+      ]
+    },
+    "char_388_mint": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_mint_1",
+        "skchr_mint_2"
+      ],
+      "skins": [
+        "char_388_mint#1",
+        "char_388_mint#2",
+        "char_388_mint@epoque#22"
+      ]
+    },
+    "char_338_iris": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_iris_1",
+        "skchr_iris_2"
+      ],
+      "skins": [
+        "char_338_iris#1",
+        "char_338_iris#2",
+        "char_338_iris@witch#3"
+      ]
+    },
+    "char_297_hamoni": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_hamoni_1",
+        "skchr_hamoni_2"
+      ],
+      "skins": [
+        "char_297_hamoni#1",
+        "char_297_hamoni#2",
+        "char_297_hamoni@epoque#24"
+      ]
+    },
+    "char_1011_lava2": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_lava2_1",
+        "skchr_lava2_2"
+      ],
+      "skins": [
+        "char_1011_lava2#1",
+        "char_1011_lava2#2",
+        "char_1011_lava2@nian#6"
+      ]
+    },
+    "char_489_serum": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_serum_1",
+        "skchr_serum_2"
+      ],
+      "skins": [
+        "char_489_serum#1",
+        "char_489_serum#2"
+      ]
+    },
+    "char_4013_kjera": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[3]",
+        "skchr_kjera_2"
+      ],
+      "skins": [
+        "char_4013_kjera#1",
+        "char_4013_kjera#2",
+        "char_4013_kjera@epoque#18"
+      ]
+    },
+    "char_4040_rockr": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_magic_rage[3]",
+        "skchr_rockr_2"
+      ],
+      "skins": [
+        "char_4040_rockr#1",
+        "char_4040_rockr#2",
+        "char_4040_rockr@lxh#1"
+      ]
+    },
+    "char_4054_malist": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_quickattack[3]",
+        "skchr_malist_2"
+      ],
+      "skins": [
+        "char_4054_malist#1",
+        "char_4054_malist#2"
+      ]
+    },
+    "char_242_otter": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_otter_1",
+        "skchr_otter_2"
+      ],
+      "skins": [
+        "char_242_otter#1",
+        "char_242_otter#2",
+        "char_242_otter@ghost#1"
+      ]
+    },
+    "char_336_folivo": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_folivo_1",
+        "skchr_folivo_2"
+      ],
+      "skins": [
+        "char_336_folivo#1",
+        "char_336_folivo#2",
+        "char_336_folivo@epoque#22"
+      ]
+    },
+    "char_108_silent": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_heal_up[3]",
+        "skchr_silent_2"
+      ],
+      "skins": [
+        "char_108_silent#1",
+        "char_108_silent#2",
+        "char_108_silent@winter#2",
+        "char_108_silent@sweep#1"
+      ]
+    },
+    "char_171_bldsk": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_bldsk_1",
+        "skchr_bldsk_2"
+      ],
+      "skins": [
+        "char_171_bldsk#1",
+        "char_171_bldsk#2",
+        "char_171_bldsk@summer#7",
+        "char_171_bldsk@witch#1"
+      ]
+    },
+    "char_345_folnic": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_folnic_1",
+        "skchr_folnic_2"
+      ],
+      "skins": [
+        "char_345_folnic#1",
+        "char_345_folnic#2",
+        "char_345_folnic@wild#4"
+      ]
+    },
+    "char_510_amedic": {
+      "rarity": 4,
+      "obtainable": false,
+      "skills": [
+        "skchr_amedic_1"
+      ],
+      "skins": [
+        "char_510_amedic#1"
+      ]
+    },
+    "char_348_ceylon": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_ceylon_1",
+        "skchr_ceylon_2"
+      ],
+      "skins": [
+        "char_348_ceylon#1",
+        "char_348_ceylon#2"
+      ]
+    },
+    "char_436_whispr": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_whispr_1",
+        "skchr_whispr_2"
+      ],
+      "skins": [
+        "char_436_whispr#1",
+        "char_436_whispr#2",
+        "char_436_whispr@nian#4"
+      ]
+    },
+    "char_402_tuye": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_tuye_1",
+        "skchr_tuye_2"
+      ],
+      "skins": [
+        "char_402_tuye#1",
+        "char_402_tuye#2",
+        "char_402_tuye@epoque#14"
+      ]
+    },
+    "char_473_mberry": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_mberry_1",
+        "skchr_mberry_2"
+      ],
+      "skins": [
+        "char_473_mberry#1",
+        "char_473_mberry#2",
+        "char_473_mberry@epoque#14",
+        "char_473_mberry@nian#9"
+      ]
+    },
+    "char_449_glider": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_glider_1",
+        "skchr_glider_2"
+      ],
+      "skins": [
+        "char_449_glider#1",
+        "char_449_glider#2",
+        "char_449_glider@epoque#17"
+      ]
+    },
+    "char_1024_hbisc2": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[3]",
+        "skchr_hbisc2_2"
+      ],
+      "skins": [
+        "char_1024_hbisc2#1",
+        "char_1024_hbisc2#2"
+      ]
+    },
+    "char_4071_peper": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_heal_rage[3]",
+        "skchr_peper_2"
+      ],
+      "skins": [
+        "char_4071_peper#1",
+        "char_4071_peper#2"
+      ]
+    },
+    "char_148_nearl": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_nearl_1",
+        "skchr_nearl_2"
+      ],
+      "skins": [
+        "char_148_nearl#1",
+        "char_148_nearl#2",
+        "char_148_nearl@summer#2"
+      ]
+    },
+    "char_226_hmau": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_hmau_1",
+        "skchr_hmau_2"
+      ],
+      "skins": [
+        "char_226_hmau#1",
+        "char_226_hmau#2",
+        "char_226_hmau@nian#4"
+      ]
+    },
+    "char_144_red": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_red_1",
+        "skchr_red_2"
+      ],
+      "skins": [
+        "char_144_red#1",
+        "char_144_red#2",
+        "char_144_red@summer#6"
+      ]
+    },
+    "char_243_waaifu": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_waaifu_1",
+        "skchr_waaifu_2"
+      ],
+      "skins": [
+        "char_243_waaifu#1",
+        "char_243_waaifu#2",
+        "char_243_waaifu@whirlwind#2"
+      ]
+    },
+    "char_214_kafka": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_kafka_1",
+        "skchr_kafka_2"
+      ],
+      "skins": [
+        "char_214_kafka#1",
+        "char_214_kafka#2",
+        "char_214_kafka@snow#3"
+      ]
+    },
+    "char_455_nothin": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_nothin_1",
+        "skchr_nothin_2"
+      ],
+      "skins": [
+        "char_455_nothin#1",
+        "char_455_nothin#2",
+        "char_455_nothin@nian#7"
+      ]
+    },
+    "char_107_liskam": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_liskam_1",
+        "skchr_liskam_2"
+      ],
+      "skins": [
+        "char_107_liskam#1",
+        "char_107_liskam#2",
+        "char_107_liskam@nian#2",
+        "char_107_liskam@striker#1"
+      ]
+    },
+    "char_201_moeshd": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_moeshd_1",
+        "skchr_moeshd_2"
+      ],
+      "skins": [
+        "char_201_moeshd#1",
+        "char_201_moeshd#2",
+        "char_201_moeshd@summer#4",
+        "char_201_moeshd@kfc#1"
+      ]
+    },
+    "char_325_bison": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_def_up[3]",
+        "skchr_bison_2"
+      ],
+      "skins": [
+        "char_325_bison#1",
+        "char_325_bison#2"
+      ]
+    },
+    "char_163_hpsts": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_hpsts_1",
+        "skchr_hpsts_2"
+      ],
+      "skins": [
+        "char_163_hpsts#1",
+        "char_163_hpsts#2"
+      ]
+    },
+    "char_378_asbest": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_asbest_1",
+        "skchr_asbest_2"
+      ],
+      "skins": [
+        "char_378_asbest#1",
+        "char_378_asbest#2",
+        "char_378_asbest@whirlwind#3"
+      ]
+    },
+    "char_512_aprot": {
+      "rarity": 4,
+      "obtainable": false,
+      "skills": [
+        "skchr_aprot_1"
+      ],
+      "skins": [
+        "char_512_aprot#1"
+      ]
+    },
+    "char_4025_aprot2": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_aprot2_1",
+        "skchr_aprot2_2"
+      ],
+      "skins": [
+        "char_4025_aprot2#1",
+        "char_4025_aprot2#2"
+      ]
+    },
+    "char_4047_pianst": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_pianst_1",
+        "skchr_pianst_2"
+      ],
+      "skins": [
+        "char_4047_pianst#1",
+        "char_4047_pianst#2"
+      ]
+    },
+    "char_457_blitz": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_blitz_1",
+        "skchr_blitz_2"
+      ],
+      "skins": [
+        "char_457_blitz#1",
+        "char_457_blitz#2"
+      ]
+    },
+    "char_304_zebra": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_zebra_1",
+        "skchr_zebra_2"
+      ],
+      "skins": [
+        "char_304_zebra#1",
+        "char_304_zebra#2",
+        "char_304_zebra@wild#6"
+      ]
+    },
+    "char_431_ashlok": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[3]",
+        "skchr_ashlok_2"
+      ],
+      "skins": [
+        "char_431_ashlok#1",
+        "char_431_ashlok#2"
+      ]
+    },
+    "char_493_firwhl": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_firwhl_1",
+        "skchr_firwhl_2"
+      ],
+      "skins": [
+        "char_493_firwhl#1",
+        "char_493_firwhl#2"
+      ]
+    },
+    "char_422_aurora": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_aurora_1",
+        "skchr_aurora_2"
+      ],
+      "skins": [
+        "char_422_aurora#1",
+        "char_422_aurora#2",
+        "char_422_aurora@boc#4"
+      ]
+    },
+    "char_464_cement": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_cement_1",
+        "skchr_cement_2"
+      ],
+      "skins": [
+        "char_464_cement#1",
+        "char_464_cement#2"
+      ]
+    },
+    "char_145_prove": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_prove_1",
+        "skchr_prove_2"
+      ],
+      "skins": [
+        "char_145_prove#1",
+        "char_145_prove#2",
+        "char_145_prove@summer#3",
+        "char_145_prove@wild#5"
+      ]
+    },
+    "char_158_milu": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_milu_1",
+        "skchr_milu_2"
+      ],
+      "skins": [
+        "char_158_milu#1",
+        "char_158_milu#2",
+        "char_158_milu@snow#2",
+        "char_158_milu@wild#2"
+      ]
+    },
+    "char_218_cuttle": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[3]",
+        "skchr_cuttle_2"
+      ],
+      "skins": [
+        "char_218_cuttle#1",
+        "char_218_cuttle#2",
+        "char_218_cuttle@epoque#12"
+      ]
+    },
+    "char_4014_lunacu": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_lunacu_1",
+        "skchr_lunacu_2"
+      ],
+      "skins": [
+        "char_4014_lunacu#1",
+        "char_4014_lunacu#2"
+      ]
+    },
+    "char_363_toddi": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_toddi_1",
+        "skchr_toddi_2"
+      ],
+      "skins": [
+        "char_363_toddi#1",
+        "char_363_toddi#2"
+      ]
+    },
+    "char_4043_erato": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_erato_1",
+        "skchr_erato_2"
+      ],
+      "skins": [
+        "char_4043_erato#1",
+        "char_4043_erato#2",
+        "char_4043_erato@snow#5"
+      ]
+    },
+    "char_1027_greyy2": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_quickattack[3]",
+        "skchr_greyy2_2"
+      ],
+      "skins": [
+        "char_1027_greyy2#1",
+        "char_1027_greyy2#2",
+        "char_1027_greyy2@snow#5"
+      ]
+    },
+    "char_173_slchan": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_slchan_1",
+        "skchr_slchan_2"
+      ],
+      "skins": [
+        "char_173_slchan#1",
+        "char_173_slchan#2",
+        "char_173_slchan@wild#1",
+        "char_173_slchan@wwf#1"
+      ]
+    },
+    "char_383_snsant": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_snsant_1",
+        "skchr_snsant_2"
+      ],
+      "skins": [
+        "char_383_snsant#1",
+        "char_383_snsant#2",
+        "char_383_snsant@witch#2"
+      ]
+    },
+    "char_174_slbell": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_slbell_1",
+        "skchr_slbell_2"
+      ],
+      "skins": [
+        "char_174_slbell#1",
+        "char_174_slbell#2",
+        "char_174_slbell@snow#1"
+      ]
+    },
+    "char_254_vodfox": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_vodfox_1",
+        "skchr_vodfox_2"
+      ],
+      "skins": [
+        "char_254_vodfox#1",
+        "char_254_vodfox#2",
+        "char_254_vodfox@witch#2"
+      ]
+    },
+    "char_195_glassb": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_glassb_1",
+        "skchr_glassb_2"
+      ],
+      "skins": [
+        "char_195_glassb#1",
+        "char_195_glassb#2",
+        "char_195_glassb@kitchen#1"
+      ]
+    },
+    "char_326_glacus": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_glacus_1",
+        "skchr_glacus_2"
+      ],
+      "skins": [
+        "char_326_glacus#1",
+        "char_326_glacus#2",
+        "char_326_glacus@ghost#1"
+      ]
+    },
+    "char_4032_provs": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_provs_1",
+        "skchr_provs_2"
+      ],
+      "skins": [
+        "char_4032_provs#1",
+        "char_4032_provs#2",
+        "char_4032_provs@wild#7"
+      ]
+    },
+    "char_433_windft": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_windft_1",
+        "skchr_windft_2"
+      ],
+      "skins": [
+        "char_433_windft#1",
+        "char_433_windft#2"
+      ]
+    },
+    "char_101_sora": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_sora_1",
+        "skchr_sora_2"
+      ],
+      "skins": [
+        "char_101_sora#1",
+        "char_101_sora#2",
+        "char_101_sora@epoque#17",
+        "char_101_sora@summer#1"
+      ]
+    },
+    "char_4045_heidi": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_heidi_1",
+        "skchr_heidi_2"
+      ],
+      "skins": [
+        "char_4045_heidi#1",
+        "char_4045_heidi#2",
+        "char_4045_heidi@epoque#24"
+      ]
+    },
+    "char_343_tknogi": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_tknogi_1",
+        "skchr_tknogi_2"
+      ],
+      "skins": [
+        "char_343_tknogi#1",
+        "char_343_tknogi#2",
+        "char_343_tknogi@epoque#9"
+      ]
+    },
+    "char_4019_ncdeer": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_ncdeer_1",
+        "skchr_ncdeer_2"
+      ],
+      "skins": [
+        "char_4019_ncdeer#1",
+        "char_4019_ncdeer#2"
+      ]
+    },
+    "char_492_quercu": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_quercu_1",
+        "skchr_quercu_2"
+      ],
+      "skins": [
+        "char_492_quercu#1",
+        "char_492_quercu#2",
+        "char_492_quercu@epoque#17"
+      ]
+    },
+    "char_215_mantic": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_mantic_1",
+        "skchr_mantic_2"
+      ],
+      "skins": [
+        "char_215_mantic#1",
+        "char_215_mantic#2",
+        "char_215_mantic@epoque#4",
+        "char_215_mantic@epoque#19"
+      ]
+    },
+    "char_478_kirara": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_kirara_1",
+        "skchr_kirara_2"
+      ],
+      "skins": [
+        "char_478_kirara#1",
+        "char_478_kirara#2",
+        "char_478_kirara@game#2"
+      ]
+    },
+    "char_241_panda": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_panda_1",
+        "skchr_panda_2"
+      ],
+      "skins": [
+        "char_241_panda#1",
+        "char_241_panda#2",
+        "char_241_panda@nian#7",
+        "char_241_panda@marthe#1"
+      ]
+    },
+    "char_4036_forcer": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_forcer_1",
+        "skchr_forcer_2"
+      ],
+      "skins": [
+        "char_4036_forcer#1",
+        "char_4036_forcer#2",
+        "char_4036_forcer@epoque#20"
+      ]
+    },
+    "char_451_robin": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_robin_1",
+        "skchr_robin_2"
+      ],
+      "skins": [
+        "char_451_robin#1",
+        "char_451_robin#2",
+        "char_451_robin@epoque#13"
+      ]
+    },
+    "char_458_rfrost": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_rfrost_1",
+        "skchr_rfrost_2"
+      ],
+      "skins": [
+        "char_458_rfrost#1",
+        "char_458_rfrost#2"
+      ]
+    },
+    "char_369_bena": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_bena_1",
+        "skchr_bena_2"
+      ],
+      "skins": [
+        "char_369_bena#1",
+        "char_369_bena#2"
+      ]
+    },
+    "char_4016_kazema": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_kazema_1",
+        "skchr_kazema_2"
+      ],
+      "skins": [
+        "char_4016_kazema#1",
+        "char_4016_kazema#2",
+        "char_4016_kazema@witch#3"
+      ]
+    },
+    "char_103_angel": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_angel_1",
+        "skchr_angel_2",
+        "skchr_angel_3"
+      ],
+      "skins": [
+        "char_103_angel#1",
+        "char_103_angel#2",
+        "char_103_angel@sale#8",
+        "char_103_angel@wild#1",
+        "char_103_angel@kfc#1"
+      ]
+    },
+    "char_332_archet": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_archet_1",
+        "skchr_archet_2",
+        "skchr_archet_3"
+      ],
+      "skins": [
+        "char_332_archet#1",
+        "char_332_archet#2",
+        "char_332_archet@shining#1"
+      ]
+    },
+    "char_456_ash": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_ash_1",
+        "skchr_ash_2",
+        "skchr_ash_3"
+      ],
+      "skins": [
+        "char_456_ash#1",
+        "char_456_ash#2",
+        "char_456_ash@rainbow6#1"
+      ]
+    },
+    "char_340_shwaz": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_shwaz_1",
+        "skchr_shwaz_2",
+        "skchr_shwaz_3"
+      ],
+      "skins": [
+        "char_340_shwaz#1",
+        "char_340_shwaz#2",
+        "char_340_shwaz@snow#1",
+        "char_340_shwaz@striker#1"
+      ]
+    },
+    "char_4055_bgsnow": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_bgsnow_1",
+        "skchr_bgsnow_2",
+        "skchr_bgsnow_3"
+      ],
+      "skins": [
+        "char_4055_bgsnow#1",
+        "char_4055_bgsnow#2",
+        "char_4055_bgsnow@wild#7"
+      ]
+    },
+    "char_430_fartth": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skcom_quickattack[3]",
+        "skchr_fartth_2",
+        "skchr_fartth_3"
+      ],
+      "skins": [
+        "char_430_fartth#1",
+        "char_430_fartth#2"
+      ]
+    },
+    "char_113_cqbw": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_cqbw_1",
+        "skchr_cqbw_2",
+        "skchr_cqbw_3"
+      ],
+      "skins": [
+        "char_113_cqbw#1",
+        "char_113_cqbw#2",
+        "char_113_cqbw@epoque#7"
+      ]
+    },
+    "char_300_phenxi": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_phenxi_1",
+        "skchr_phenxi_2",
+        "skchr_phenxi_3"
+      ],
+      "skins": [
+        "char_300_phenxi#1",
+        "char_300_phenxi#2"
+      ]
+    },
+    "char_197_poca": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[3]",
+        "skchr_poca_2",
+        "skchr_poca_3"
+      ],
+      "skins": [
+        "char_197_poca#1",
+        "char_197_poca#2",
+        "char_197_poca@epoque#12"
+      ]
+    },
+    "char_391_rosmon": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_rosmon_1",
+        "skchr_rosmon_2",
+        "skchr_rosmon_3"
+      ],
+      "skins": [
+        "char_391_rosmon#1",
+        "char_391_rosmon#2",
+        "char_391_rosmon@epoque#17"
+      ]
+    },
+    "char_1013_chen2": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_chen2_1",
+        "skchr_chen2_2",
+        "skchr_chen2_3"
+      ],
+      "skins": [
+        "char_1013_chen2#1",
+        "char_1013_chen2#2"
+      ]
+    },
+    "char_112_siege": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skcom_charge_cost[3]",
+        "skchr_siege_2",
+        "skchr_siege_3"
+      ],
+      "skins": [
+        "char_112_siege#1",
+        "char_112_siege#2",
+        "char_112_siege@wild#2",
+        "char_112_siege@striker#2"
+      ]
+    },
+    "char_222_bpipe": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skcom_quickattack[3]",
+        "skchr_bpipe_2",
+        "skchr_bpipe_3"
+      ],
+      "skins": [
+        "char_222_bpipe#1",
+        "char_222_bpipe#2",
+        "char_222_bpipe@race#1"
+      ]
+    },
+    "char_362_saga": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skcom_charge_cost[3]",
+        "skchr_saga_2",
+        "skchr_saga_3"
+      ],
+      "skins": [
+        "char_362_saga#1",
+        "char_362_saga#2"
+      ]
+    },
+    "char_479_sleach": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skcom_assist_cost[3]",
+        "skchr_sleach_2",
+        "skchr_sleach_3"
+      ],
+      "skins": [
+        "char_479_sleach#1",
+        "char_479_sleach#2",
+        "char_479_sleach@epoque#14"
+      ]
+    },
+    "char_420_flamtl": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_flamtl_1",
+        "skchr_flamtl_2",
+        "skchr_flamtl_3"
+      ],
+      "skins": [
+        "char_420_flamtl#1",
+        "char_420_flamtl#2",
+        "char_420_flamtl@game#2"
+      ]
+    },
+    "char_427_vigil": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_vigil_1",
+        "skchr_vigil_2",
+        "skchr_vigil_3"
+      ],
+      "skins": [
+        "char_427_vigil#1",
+        "char_427_vigil#2"
+      ]
+    },
+    "char_4087_ines": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_ines_1",
+        "skchr_ines_2",
+        "skchr_ines_3"
+      ],
+      "skins": [
+        "char_4087_ines#1",
+        "char_4087_ines#2"
+      ]
+    },
+    "char_134_ifrit": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_ifrit_1",
+        "skchr_ifrit_2",
+        "skchr_ifrit_3"
+      ],
+      "skins": [
+        "char_134_ifrit#1",
+        "char_134_ifrit#2",
+        "char_134_ifrit@summer#1",
+        "char_134_ifrit@kfc#1"
+      ]
+    },
+    "char_213_mostma": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[3]",
+        "skchr_mostma_2",
+        "skchr_mostma_3"
+      ],
+      "skins": [
+        "char_213_mostma#1",
+        "char_213_mostma#2",
+        "char_213_mostma@epoque#5"
+      ]
+    },
+    "char_180_amgoat": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_amgoat_1",
+        "skchr_amgoat_2",
+        "skchr_amgoat_3"
+      ],
+      "skins": [
+        "char_180_amgoat#1",
+        "char_180_amgoat#2",
+        "char_180_amgoat@summer#5"
+      ]
+    },
+    "char_2013_cerber": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_cerber_1",
+        "skchr_cerber_2",
+        "skchr_cerber_3"
+      ],
+      "skins": [
+        "char_2013_cerber#1",
+        "char_2013_cerber#2",
+        "char_2013_cerber@whirlwind#2",
+        "char_2013_cerber@summer#4"
+      ]
+    },
+    "char_2015_dusk": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_dusk_1",
+        "skchr_dusk_2",
+        "skchr_dusk_3"
+      ],
+      "skins": [
+        "char_2015_dusk#1",
+        "char_2015_dusk#2",
+        "char_2015_dusk@nian#7"
+      ]
+    },
+    "char_472_pasngr": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_pasngr_1",
+        "skchr_pasngr_2",
+        "skchr_pasngr_3"
+      ],
+      "skins": [
+        "char_472_pasngr#1",
+        "char_472_pasngr#2",
+        "char_472_pasngr@epoque#17"
+      ]
+    },
+    "char_426_billro": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_billro_1",
+        "skchr_billro_2",
+        "skchr_billro_3"
+      ],
+      "skins": [
+        "char_426_billro#1",
+        "char_426_billro#2",
+        "char_426_billro@summer#8",
+        "char_426_billro@snow#3"
+      ]
+    },
+    "char_4080_lin": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_lin_1",
+        "skchr_lin_2",
+        "skchr_lin_3"
+      ],
+      "skins": [
+        "char_4080_lin#1",
+        "char_4080_lin#2"
+      ]
+    },
+    "char_377_gdglow": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_gdglow_1",
+        "skchr_gdglow_2",
+        "skchr_gdglow_3"
+      ],
+      "skins": [
+        "char_377_gdglow#1",
+        "char_377_gdglow#2",
+        "char_377_gdglow@snow#5"
+      ]
+    },
+    "char_4046_ebnhlz": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_ebnhlz_1",
+        "skchr_ebnhlz_2",
+        "skchr_ebnhlz_3"
+      ],
+      "skins": [
+        "char_4046_ebnhlz#1",
+        "char_4046_ebnhlz#2"
+      ]
+    },
+    "char_206_gnosis": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_gnosis_1",
+        "skchr_gnosis_2",
+        "skchr_gnosis_3"
+      ],
+      "skins": [
+        "char_206_gnosis#1",
+        "char_206_gnosis#2",
+        "char_206_gnosis@boc#4"
+      ]
+    },
+    "char_291_aglina": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_aglina_1",
+        "skchr_aglina_2",
+        "skchr_aglina_3"
+      ],
+      "skins": [
+        "char_291_aglina#1",
+        "char_291_aglina#2",
+        "char_291_aglina@summer#5",
+        "char_291_aglina@boc#1"
+      ]
+    },
+    "char_358_lisa": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_lisa_1",
+        "skchr_lisa_2",
+        "skchr_lisa_3"
+      ],
+      "skins": [
+        "char_358_lisa#1",
+        "char_358_lisa#2",
+        "char_358_lisa@epoque#22",
+        "char_358_lisa@wild#3",
+        "char_358_lisa@lxh#1"
+      ]
+    },
+    "char_248_mgllan": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_mgllan_1",
+        "skchr_mgllan_2",
+        "skchr_mgllan_3"
+      ],
+      "skins": [
+        "char_248_mgllan#1",
+        "char_248_mgllan#2",
+        "char_248_mgllan@kitchen#1"
+      ]
+    },
+    "char_1012_skadi2": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_skadi2_1",
+        "skchr_skadi2_2",
+        "skchr_skadi2_3"
+      ],
+      "skins": [
+        "char_1012_skadi2#1",
+        "char_1012_skadi2#2",
+        "char_1012_skadi2@boc#4"
+      ]
+    },
+    "char_2023_ling": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_ling_1",
+        "skchr_ling_2",
+        "skchr_ling_3"
+      ],
+      "skins": [
+        "char_2023_ling#1",
+        "char_2023_ling#2",
+        "char_2023_ling@nian#9"
+      ]
+    },
+    "char_4072_ironmn": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_ironmn_1",
+        "skchr_ironmn_2",
+        "skchr_ironmn_3"
+      ],
+      "skins": [
+        "char_4072_ironmn#1",
+        "char_4072_ironmn#2"
+      ]
+    },
+    "char_250_phatom": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_phatom_1",
+        "skchr_phatom_2",
+        "skchr_phatom_3"
+      ],
+      "skins": [
+        "char_250_phatom#1",
+        "char_250_phatom#2",
+        "char_250_phatom@sale#4",
+        "char_250_phatom@ghost#1"
+      ]
+    },
+    "char_1028_texas2": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_texas2_1",
+        "skchr_texas2_2",
+        "skchr_texas2_3"
+      ],
+      "skins": [
+        "char_1028_texas2#1",
+        "char_1028_texas2#2"
+      ]
+    },
+    "char_1029_yato2": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_yato2_1",
+        "skchr_yato2_2",
+        "skchr_yato2_3"
+      ],
+      "skins": [
+        "char_1029_yato2#1",
+        "char_1029_yato2#2"
+      ]
+    },
+    "char_322_lmlee": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_lmlee_1",
+        "skchr_lmlee_2",
+        "skchr_lmlee_3"
+      ],
+      "skins": [
+        "char_322_lmlee#1",
+        "char_322_lmlee#2",
+        "char_322_lmlee@witch#3"
+      ]
+    },
+    "char_400_weedy": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_weedy_1",
+        "skchr_weedy_2",
+        "skchr_weedy_3"
+      ],
+      "skins": [
+        "char_400_weedy#1",
+        "char_400_weedy#2",
+        "char_400_weedy@snow#2"
+      ]
+    },
+    "char_225_haak": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_haak_1",
+        "skchr_haak_2",
+        "skchr_haak_3"
+      ],
+      "skins": [
+        "char_225_haak#1",
+        "char_225_haak#2",
+        "char_225_haak@nian#4",
+        "char_225_haak@nian#5"
+      ]
+    },
+    "char_474_glady": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_glady_1",
+        "skchr_glady_2",
+        "skchr_glady_3"
+      ],
+      "skins": [
+        "char_474_glady#1",
+        "char_474_glady#2",
+        "char_474_glady@boc#5"
+      ]
+    },
+    "char_437_mizuki": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_mizuki_1",
+        "skchr_mizuki_2",
+        "skchr_mizuki_3"
+      ],
+      "skins": [
+        "char_437_mizuki#1",
+        "char_437_mizuki#2",
+        "char_437_mizuki@sale#7"
+      ]
+    },
+    "char_1023_ghost2": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_ghost2_1",
+        "skchr_ghost2_2",
+        "skchr_ghost2_3"
+      ],
+      "skins": [
+        "char_1023_ghost2#1",
+        "char_1023_ghost2#2"
+      ]
+    },
+    "char_4048_doroth": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_doroth_1",
+        "skchr_doroth_2",
+        "skchr_doroth_3"
+      ],
+      "skins": [
+        "char_4048_doroth#1",
+        "char_4048_doroth#2"
+      ]
+    },
+    "char_147_shining": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_shining_1",
+        "skchr_shining_2",
+        "skchr_shining_3"
+      ],
+      "skins": [
+        "char_147_shining#1",
+        "char_147_shining#2",
+        "char_147_shining@summer#1"
+      ]
+    },
+    "char_179_cgbird": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skcom_heal_up[3]",
+        "skchr_cgbird_2",
+        "skchr_cgbird_3"
+      ],
+      "skins": [
+        "char_179_cgbird#1",
+        "char_179_cgbird#2",
+        "char_179_cgbird@witch#1"
+      ]
+    },
+    "char_003_kalts": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_kalts_1",
+        "skchr_kalts_2",
+        "skchr_kalts_3"
+      ],
+      "skins": [
+        "char_003_kalts#1",
+        "char_003_kalts#2"
+      ]
+    },
+    "char_4042_lumen": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_lumen_1",
+        "skchr_lumen_2",
+        "skchr_lumen_3"
+      ],
+      "skins": [
+        "char_4042_lumen#1",
+        "char_4042_lumen#2"
+      ]
+    },
+    "char_1020_reed2": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skcom_quickattack[3]",
+        "skchr_reed2_2",
+        "skchr_reed2_3"
+      ],
+      "skins": [
+        "char_1020_reed2#1",
+        "char_1020_reed2#2"
+      ]
+    },
+    "char_136_hsguma": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_hsguma_1",
+        "skchr_hsguma_2",
+        "skchr_hsguma_3"
+      ],
+      "skins": [
+        "char_136_hsguma#1",
+        "char_136_hsguma#2",
+        "char_136_hsguma@nian#3"
+      ]
+    },
+    "char_202_demkni": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_demkni_1",
+        "skchr_demkni_2",
+        "skchr_demkni_3"
+      ],
+      "skins": [
+        "char_202_demkni#1",
+        "char_202_demkni#2",
+        "char_202_demkni@test#1",
+        "char_202_demkni@boc#1"
+      ]
+    },
+    "char_423_blemsh": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_blemsh_1",
+        "skchr_blemsh_2",
+        "skchr_blemsh_3"
+      ],
+      "skins": [
+        "char_423_blemsh#1",
+        "char_423_blemsh#2",
+        "char_423_blemsh@witch#2"
+      ]
+    },
+    "char_2014_nian": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_nian_1",
+        "skchr_nian_2",
+        "skchr_nian_3"
+      ],
+      "skins": [
+        "char_2014_nian#1",
+        "char_2014_nian#2",
+        "char_2014_nian@nian#4"
+      ]
+    },
+    "char_311_mudrok": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skcom_def_up[3]",
+        "skchr_mudrok_2",
+        "skchr_mudrok_3"
+      ],
+      "skins": [
+        "char_311_mudrok#1",
+        "char_311_mudrok#2",
+        "char_311_mudrok@summer#6",
+        "char_311_mudrok@ambienceSynesthesia#2"
+      ]
+    },
+    "char_4065_judge": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_judge_1",
+        "skchr_judge_2",
+        "skchr_judge_3"
+      ],
+      "skins": [
+        "char_4065_judge#1",
+        "char_4065_judge#2"
+      ]
+    },
+    "char_416_zumama": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_zumama_1",
+        "skchr_zumama_2",
+        "skchr_zumama_3"
+      ],
+      "skins": [
+        "char_416_zumama#1",
+        "char_416_zumama#2",
+        "char_416_zumama@boc#3"
+      ]
+    },
+    "char_4039_horn": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_horn_1",
+        "skchr_horn_2",
+        "skchr_horn_3"
+      ],
+      "skins": [
+        "char_4039_horn#1",
+        "char_4039_horn#2",
+        "char_4039_horn@epoque#24"
+      ]
+    },
+    "char_264_f12yin": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_f12yin_1",
+        "skchr_f12yin_2",
+        "skchr_f12yin_3"
+      ],
+      "skins": [
+        "char_264_f12yin#1",
+        "char_264_f12yin#2",
+        "char_264_f12yin@epoque#15",
+        "char_264_f12yin@boc#3"
+      ]
+    },
+    "char_2024_chyue": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_chyue_1",
+        "skchr_chyue_2",
+        "skchr_chyue_3"
+      ],
+      "skins": [
+        "char_2024_chyue#1",
+        "char_2024_chyue#2"
+      ]
+    },
+    "char_172_svrash": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_svrash_1",
+        "skchr_svrash_2",
+        "skchr_svrash_3"
+      ],
+      "skins": [
+        "char_172_svrash#1",
+        "char_172_svrash#2",
+        "char_172_svrash@summer#4",
+        "char_172_svrash@snow#1"
+      ]
+    },
+    "char_293_thorns": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skcom_atk_up[3]",
+        "skchr_thorns_2",
+        "skchr_thorns_3"
+      ],
+      "skins": [
+        "char_293_thorns#1",
+        "char_293_thorns#2",
+        "char_293_thorns@it#1"
+      ]
+    },
+    "char_4082_qiubai": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_qiubai_1",
+        "skchr_qiubai_2",
+        "skchr_qiubai_3"
+      ],
+      "skins": [
+        "char_4082_qiubai#1",
+        "char_4082_qiubai#2"
+      ]
+    },
+    "char_010_chen": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_chen_1",
+        "skchr_chen_2",
+        "skchr_chen_3"
+      ],
+      "skins": [
+        "char_010_chen#1",
+        "char_010_chen#2",
+        "char_010_chen@nian#2"
+      ]
+    },
+    "char_4009_irene": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_irene_1",
+        "skchr_irene_2",
+        "skchr_irene_3"
+      ],
+      "skins": [
+        "char_4009_irene#1",
+        "char_4009_irene#2"
+      ]
+    },
+    "char_017_huang": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_huang_1",
+        "skchr_huang_2",
+        "skchr_huang_3"
+      ],
+      "skins": [
+        "char_017_huang#1",
+        "char_017_huang#2",
+        "char_017_huang@as#1"
+      ]
+    },
+    "char_1026_gvial2": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_gvial2_1",
+        "skchr_gvial2_2",
+        "skchr_gvial2_3"
+      ],
+      "skins": [
+        "char_1026_gvial2#1",
+        "char_1026_gvial2#2"
+      ]
+    },
+    "char_350_surtr": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_surtr_1",
+        "skchr_surtr_2",
+        "skchr_surtr_3"
+      ],
+      "skins": [
+        "char_350_surtr#1",
+        "char_350_surtr#2",
+        "char_350_surtr@summer#9",
+        "char_350_surtr@it#1"
+      ]
+    },
+    "char_188_helage": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_helage_1",
+        "skchr_helage_2",
+        "skchr_helage_3"
+      ],
+      "skins": [
+        "char_188_helage#1",
+        "char_188_helage#2",
+        "char_188_helage@boc#2"
+      ]
+    },
+    "char_485_pallas": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_pallas_1",
+        "skchr_pallas_2",
+        "skchr_pallas_3"
+      ],
+      "skins": [
+        "char_485_pallas#1",
+        "char_485_pallas#2",
+        "char_485_pallas@epoque#12",
+        "char_485_pallas@epoque#19"
+      ]
+    },
+    "char_1014_nearl2": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_nearl2_1",
+        "skchr_nearl2_2",
+        "skchr_nearl2_3"
+      ],
+      "skins": [
+        "char_1014_nearl2#1",
+        "char_1014_nearl2#2",
+        "char_1014_nearl2@epoque#17"
+      ]
+    },
+    "char_4064_mlynar": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skchr_mlynar_1",
+        "skchr_mlynar_2",
+        "skchr_mlynar_3"
+      ],
+      "skins": [
+        "char_4064_mlynar#1",
+        "char_4064_mlynar#2"
+      ]
+    },
+    "token_10000_silent_healrb": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_withdraw",
+        "skcom_withdraw"
+      ],
+      "skins": [
+        "token_10000_silent_healrb#1",
+        "token_10000_silent_healrb_winter#1",
+        "token_10000_silent_healrb_sweep#1"
+      ]
+    },
+    "token_10001_deepcl_tentac": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        null,
+        null
+      ],
+      "skins": [
+        "token_10001_deepcl_tentac#1",
+        "token_10001_deepcl_tentac_winter#3"
+      ]
+    },
+    "token_10002_kalts_mon3tr": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        null,
+        null,
+        null
+      ],
+      "skins": [
+        "token_10002_kalts_mon3tr#1"
+      ]
+    },
+    "token_10003_cgbird_bird": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        null,
+        null,
+        null
+      ],
+      "skins": [
+        "token_10003_cgbird_bird#1",
+        "token_10003_cgbird_bird_witch#1"
+      ]
+    },
+    "token_10004_otter_motter": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "sktok_motter_1",
+        "sktok_motter_2"
+      ],
+      "skins": [
+        "token_10004_otter_motter#1",
+        "token_10004_otter_motter_ghost#1"
+      ]
+    },
+    "token_10005_mgllan_drone1": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "sktok_mgllan_drone1",
+        "sktok_mgllan_drone1",
+        "sktok_mgllan_drone1"
+      ],
+      "skins": [
+        "token_10005_mgllan_drone1#1",
+        "token_10005_mgllan_drone1_kitchen#1"
+      ]
+    },
+    "token_10005_mgllan_drone2": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "sktok_mgllan_drone2",
+        "sktok_mgllan_drone2",
+        "sktok_mgllan_drone2"
+      ],
+      "skins": [
+        "token_10005_mgllan_drone2#1",
+        "token_10005_mgllan_drone2_kitchen#1"
+      ]
+    },
+    "token_10005_mgllan_drone3": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "sktok_mgllan_drone3",
+        "sktok_mgllan_drone3",
+        "sktok_mgllan_drone3"
+      ],
+      "skins": [
+        "token_10005_mgllan_drone3#1",
+        "token_10005_mgllan_drone3_kitchen#1"
+      ]
+    },
+    "token_10006_vodfox_doll": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        null,
+        "sktok_vodfox_token"
+      ],
+      "skins": [
+        "token_10006_vodfox_doll#1",
+        "token_10006_vodfox_doll_witch#2"
+      ]
+    },
+    "token_10007_phatom_twin": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "sktok_phatom_1",
+        "sktok_phatom_2",
+        "sktok_phatom_3"
+      ],
+      "skins": [
+        "token_10007_phatom_twin#1",
+        "token_10007_phatom_twin_sale#4",
+        "token_10007_phatom_twin_ghost#1"
+      ]
+    },
+    "token_10008_cqbw_box": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        null,
+        "sktok_cqbw_token",
+        null
+      ],
+      "skins": [
+        "token_10008_cqbw_box#1",
+        "token_10008_cqbw_box_epoque#7"
+      ]
+    },
+    "token_10009_weedy_cannon": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        null,
+        null,
+        "sktok_weedy_token"
+      ],
+      "skins": [
+        "token_10009_weedy_cannon#1",
+        "token_10009_weedy_cannon_snow#2"
+      ]
+    },
+    "token_10010_folivo_car": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        null,
+        "sktok_folivo_2"
+      ],
+      "skins": [
+        "token_10010_folivo_car#1",
+        "token_10010_folivo_car_epoque#22"
+      ]
+    },
+    "token_10011_beewax_oblisk": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        null,
+        "sktok_beewax"
+      ],
+      "skins": [
+        "token_10011_beewax_oblisk#1",
+        "token_10011_beewax_oblisk_epoque#9"
+      ]
+    },
+    "token_10012_rosmon_shield": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        null,
+        null,
+        "sktok_rosmon"
+      ],
+      "skins": [
+        "token_10012_rosmon_shield#1",
+        "token_10012_rosmon_shield#2",
+        "token_10012_rosmon_shield_epoque#17"
+      ]
+    },
+    "token_10013_robin_mine": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "sktok_robin_1",
+        "sktok_robin_2"
+      ],
+      "skins": [
+        "token_10013_robin_mine#1",
+        "token_10013_robin_mine_epoque#13"
+      ]
+    },
+    "token_10014_bstalk_crab": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        null,
+        null
+      ],
+      "skins": [
+        "token_10014_bstalk_crab#1",
+        "token_10014_bstalk_crab_snow#4"
+      ]
+    },
+    "token_10015_dusk_drgn": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        null,
+        null,
+        null
+      ],
+      "skins": [
+        "token_10015_dusk_drgn#1",
+        "token_10015_dusk_drgn#2",
+        "token_10015_dusk_drgn_nian#7"
+      ]
+    },
+    "token_10016_rfrost_mine": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "sktok_rfrost_1",
+        "sktok_rfrost_2"
+      ],
+      "skins": [
+        "token_10016_rfrost_mine#1"
+      ]
+    },
+    "token_10017_skadi2_dedant": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "sktok_skadi2_1",
+        "sktok_skadi2_2",
+        "sktok_skadi2_3"
+      ],
+      "skins": [
+        "token_10017_skadi2_dedant#1",
+        "token_10017_skadi2_dedant_boc#4"
+      ]
+    },
+    "token_10018_robrta_mach": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "sktok_robrta",
+        "sktok_robrta"
+      ],
+      "skins": [
+        "token_10018_robrta_mach#1",
+        "token_10018_robrta_mach_summer#10"
+      ]
+    },
+    "token_10019_nearl2_sword": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        null,
+        null,
+        "sktok_nearl2_3"
+      ],
+      "skins": [
+        "token_10019_nearl2_sword#1",
+        "token_10019_nearl2_sword#2",
+        "token_10019_nearl2_sword_epoque#17"
+      ]
+    },
+    "token_10020_ling_soul1": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "sktok_ling_soul1",
+        "sktok_ling_soul1",
+        "sktok_ling_soul1"
+      ],
+      "skins": [
+        "token_10020_ling_soul1#1",
+        "token_10020_ling_soul1_nian#9"
+      ]
+    },
+    "token_10020_ling_soul2": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "sktok_ling_soul2",
+        "sktok_ling_soul2",
+        "sktok_ling_soul2"
+      ],
+      "skins": [
+        "token_10020_ling_soul2#1",
+        "token_10020_ling_soul2_nian#9"
+      ]
+    },
+    "token_10020_ling_soul3": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "sktok_ling_soul3",
+        "sktok_ling_soul3",
+        "sktok_ling_soul3"
+      ],
+      "skins": [
+        "token_10020_ling_soul3#1",
+        "token_10020_ling_soul3_nian#9"
+      ]
+    },
+    "token_10021_blkngt_hypnos": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "sktok_blkngt_hypnos_s_1",
+        "sktok_blkngt_hypnos_s_2"
+      ],
+      "skins": [
+        "token_10021_blkngt_hypnos#1",
+        "token_10021_blkngt_hypnos_nian#8",
+        "token_10021_blkngt_hypnos_summer#8"
+      ]
+    },
+    "token_10022_kazema_shadow": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        null,
+        null
+      ],
+      "skins": [
+        "token_10022_kazema_shadow#1",
+        "token_10022_kazema_shadow#2",
+        "token_10022_kazema_shadow_witch#3"
+      ]
+    },
+    "token_10023_windft_wrench": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "sktok_windft_wrench_1",
+        "sktok_windft_wrench_2"
+      ],
+      "skins": [
+        "token_10023_windft_wrench#1"
+      ]
+    },
+    "token_10024_ebnhlz_rcube": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        null,
+        "sktok_ebnhlz_token",
+        null
+      ],
+      "skins": [
+        "token_10024_ebnhlz_rcube#1"
+      ]
+    },
+    "token_10025_doroth_recttp": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "sktok_doroth_1",
+        "sktok_doroth_2",
+        "sktok_doroth_3"
+      ],
+      "skins": [
+        "token_10025_doroth_recttp#1"
+      ]
+    },
+    "token_10026_bgsnow_subbow": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "sktok_bgsnow_1",
+        "sktok_bgsnow_2",
+        "sktok_bgsnow_3"
+      ],
+      "skins": [
+        "token_10026_bgsnow_subbow#1",
+        "token_10026_bgsnow_subbow_wild#7"
+      ]
+    },
+    "token_10027_ironmn_pile1": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "sktok_ironmn_pile1",
+        "sktok_ironmn_pile1",
+        "sktok_ironmn_pile1"
+      ],
+      "skins": [
+        "token_10027_ironmn_pile1#1"
+      ]
+    },
+    "token_10027_ironmn_pile2": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "sktok_ironmn_pile2",
+        "sktok_ironmn_pile2",
+        "sktok_ironmn_pile2"
+      ],
+      "skins": [
+        "token_10027_ironmn_pile2#1"
+      ]
+    },
+    "token_10027_ironmn_pile3": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "sktok_ironmn_pile3",
+        "sktok_ironmn_pile3",
+        "sktok_ironmn_pile3"
+      ],
+      "skins": [
+        "token_10027_ironmn_pile3#1"
+      ]
+    },
+    "token_10028_vigil_wolf": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "sktok_vigil_wolf_1",
+        "sktok_vigil_wolf_2",
+        "sktok_vigil_wolf_3"
+      ],
+      "skins": [
+        "token_10028_vigil_wolf#1"
+      ]
+    },
+    "trap_001_crate": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_crate"
+      ],
+      "skins": [
+        "trap_001_crate#1"
+      ]
+    },
+    "trap_002_emp": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_emp"
+      ],
+      "skins": [
+        "trap_002_emp#1"
+      ]
+    },
+    "trap_003_gate": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_gate"
+      ],
+      "skins": [
+        "trap_003_gate#1"
+      ]
+    },
+    "trap_005_sensor": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_sensor"
+      ],
+      "skins": [
+        "trap_005_sensor#1"
+      ]
+    },
+    "trap_006_antidr": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_antidr"
+      ],
+      "skins": [
+        "trap_006_antidr#1"
+      ]
+    },
+    "trap_007_ballis": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_ballis"
+      ],
+      "skins": [
+        "trap_007_ballis#1"
+      ]
+    },
+    "trap_008_farm": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_farm"
+      ],
+      "skins": [
+        "trap_008_farm#1"
+      ]
+    },
+    "trap_009_battery": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "trap_009_battery#1"
+      ]
+    },
+    "trap_010_frosts": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_frosts"
+      ],
+      "skins": [
+        "trap_010_frosts#1"
+      ]
+    },
+    "trap_011_ore": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_ore"
+      ],
+      "skins": [
+        "trap_011_ore#1"
+      ]
+    },
+    "trap_012_mine": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_mine"
+      ],
+      "skins": [
+        "trap_012_mine#1"
+      ]
+    },
+    "trap_013_blower": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_blower"
+      ],
+      "skins": [
+        "trap_013_blower#1"
+      ]
+    },
+    "trap_014_tower": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_tower"
+      ],
+      "skins": [
+        "trap_014_tower#1"
+      ]
+    },
+    "trap_015_tree": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_tree"
+      ],
+      "skins": [
+        "trap_015_tree#1"
+      ]
+    },
+    "trap_016_peon": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "trap_016_peon#1"
+      ]
+    },
+    "trap_018_bomb": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_bomb"
+      ],
+      "skins": [
+        "trap_018_bomb#1"
+      ]
+    },
+    "trap_019_electric": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_electric"
+      ],
+      "skins": [
+        "trap_019_electric#1"
+      ]
+    },
+    "trap_020_roadblock": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_roadblock"
+      ],
+      "skins": [
+        "trap_020_roadblock#1"
+      ]
+    },
+    "trap_021_flame": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_flame"
+      ],
+      "skins": [
+        "trap_021_flame#1"
+      ]
+    },
+    "trap_022_frosts_friend": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_frosts_friend"
+      ],
+      "skins": [
+        "trap_022_frosts_friend#1"
+      ]
+    },
+    "trap_023_ore_friend": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_ore_friend"
+      ],
+      "skins": [
+        "trap_023_ore_friend#1"
+      ]
+    },
+    "trap_024_npcsld": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_npcsld"
+      ],
+      "skins": [
+        "trap_024_npcsld#1"
+      ]
+    },
+    "trap_025_prison": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_prison"
+      ],
+      "skins": [
+        "trap_025_prison#1"
+      ]
+    },
+    "trap_026_inverter": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_inverter"
+      ],
+      "skins": [
+        "trap_026_inverter#1"
+      ]
+    },
+    "trap_027_stone": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_stone"
+      ],
+      "skins": [
+        "trap_027_stone#1"
+      ]
+    },
+    "trap_028_cannon": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cannon_1",
+        "sktok_cannon_2"
+      ],
+      "skins": [
+        "trap_028_cannon#1"
+      ]
+    },
+    "trap_029_poison": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_poison_1",
+        "sktok_poison_2"
+      ],
+      "skins": [
+        "trap_029_poison#1"
+      ]
+    },
+    "trap_030_factory": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_factory_1",
+        "sktok_factory_2"
+      ],
+      "skins": [
+        "trap_030_factory#1"
+      ]
+    },
+    "trap_031_sleep": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_sleep"
+      ],
+      "skins": [
+        "trap_031_sleep#1"
+      ]
+    },
+    "trap_032_mound": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_mound"
+      ],
+      "skins": [
+        "trap_032_mound#1"
+      ]
+    },
+    "trap_033_sbomb": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_sbomb"
+      ],
+      "skins": [
+        "trap_033_sbomb#1"
+      ]
+    },
+    "trap_034_machst": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_machst"
+      ],
+      "skins": [
+        "trap_034_machst#1"
+      ]
+    },
+    "trap_035_emperor": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_emperor"
+      ],
+      "skins": [
+        "trap_035_emperor#1"
+      ]
+    },
+    "trap_036_storm": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_storm"
+      ],
+      "skins": [
+        "trap_036_storm#1"
+      ]
+    },
+    "trap_037_airsup": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_airsup"
+      ],
+      "skins": [
+        "trap_037_airsup#1"
+      ]
+    },
+    "trap_038_dsbell": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_dsbell"
+      ],
+      "skins": [
+        "trap_038_dsbell#1"
+      ]
+    },
+    "trap_039_dstnta": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_dstnta"
+      ],
+      "skins": [
+        "trap_039_dstnta#1"
+      ]
+    },
+    "trap_040_canoe": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_canoe_1",
+        "sktok_canoe_2"
+      ],
+      "skins": [
+        "trap_040_canoe#1"
+      ]
+    },
+    "trap_041_fcanon": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_fcanon"
+      ],
+      "skins": [
+        "trap_041_fcanon#1"
+      ]
+    },
+    "trap_042_tidectrl": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_tidectrl_1",
+        "sktok_tidectrl_2",
+        "sktok_tidectrl_3"
+      ],
+      "skins": [
+        "trap_042_tidectrl#1"
+      ]
+    },
+    "trap_043_dupilr": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_dupilr"
+      ],
+      "skins": [
+        "trap_043_dupilr#1"
+      ]
+    },
+    "trap_044_duruin": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_duruin"
+      ],
+      "skins": [
+        "trap_044_duruin#1"
+      ]
+    },
+    "trap_045_dublst": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_dublst"
+      ],
+      "skins": [
+        "trap_045_dublst#1"
+      ]
+    },
+    "trap_046_oxygen": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_oxygen"
+      ],
+      "skins": [
+        "trap_046_oxygen#1"
+      ]
+    },
+    "trap_048_neonlamp": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_neonlamp"
+      ],
+      "skins": [
+        "trap_048_neonlamp#1"
+      ]
+    },
+    "trap_049_candle": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_candle"
+      ],
+      "skins": [
+        "trap_049_candle#1"
+      ]
+    },
+    "trap_050_blizzard": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_blizzard"
+      ],
+      "skins": [
+        "trap_050_blizzard#1"
+      ]
+    },
+    "trap_051_vultres": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_vultres"
+      ],
+      "skins": [
+        "trap_051_vultres#1"
+      ]
+    },
+    "trap_052_slowfd": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_slowfd"
+      ],
+      "skins": [
+        "trap_052_slowfd#1"
+      ]
+    },
+    "trap_053_airbomb": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_airbomb"
+      ],
+      "skins": [
+        "trap_053_airbomb#1"
+      ]
+    },
+    "trap_054_dancdol": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_dancdol"
+      ],
+      "skins": [
+        "trap_054_dancdol#1"
+      ]
+    },
+    "trap_055_tileblock": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_tileblock"
+      ],
+      "skins": [
+        "trap_055_tileblock#1"
+      ]
+    },
+    "trap_056_sfsuifire": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "trap_056_sfsuifire#1"
+      ]
+    },
+    "trap_057_wpnsts": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_wpnsts_1",
+        "sktok_wpnsts_2"
+      ],
+      "skins": [
+        "trap_057_wpnsts#1"
+      ]
+    },
+    "trap_058_gunctrl": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_gunctrl"
+      ],
+      "skins": [
+        "trap_058_gunctrl#1"
+      ]
+    },
+    "trap_059_peacokfool": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_peacokfool"
+      ],
+      "skins": [
+        "trap_059_peacokfool#1"
+      ]
+    },
+    "trap_060_bouncy": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_bouncy_1",
+        "sktok_bouncy_2",
+        "sktok_bouncy_3"
+      ],
+      "skins": [
+        "trap_060_bouncy#1"
+      ]
+    },
+    "trap_061_creep": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_creep"
+      ],
+      "skins": [
+        "trap_061_creep#1"
+      ]
+    },
+    "trap_062_magicstart": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "trap_062_magicstart#1"
+      ]
+    },
+    "trap_063_magicturn": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "trap_063_magicturn#1"
+      ]
+    },
+    "trap_064_magiccircle": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_magiccircle"
+      ],
+      "skins": [
+        "trap_064_magiccircle#1"
+      ]
+    },
+    "trap_069_buffcard": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_buffcard"
+      ],
+      "skins": [
+        "trap_069_buffcard#1"
+      ]
+    },
+    "trap_070_supplycard": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_supplycard"
+      ],
+      "skins": [
+        "trap_070_supplycard#1"
+      ]
+    },
+    "trap_071_recyclecard": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_recyclecard"
+      ],
+      "skins": [
+        "trap_071_recyclecard#1"
+      ]
+    },
+    "trap_072_revivecard": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_revivecard"
+      ],
+      "skins": [
+        "trap_072_revivecard#1"
+      ]
+    },
+    "trap_073_btauntcard": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_btauntcard"
+      ],
+      "skins": [
+        "trap_073_btauntcard#1"
+      ]
+    },
+    "trap_074_bbombcard": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_bbombcard"
+      ],
+      "skins": [
+        "trap_074_bbombcard#1"
+      ]
+    },
+    "trap_082_salecard": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_salecard"
+      ],
+      "skins": [
+        "trap_082_salecard#1"
+      ]
+    },
+    "trap_075_bgarmn": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_bgarmn_1"
+      ],
+      "skins": [
+        "trap_075_bgarmn#1"
+      ]
+    },
+    "trap_076_bgarms": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_bgarms_1"
+      ],
+      "skins": [
+        "trap_076_bgarms#1"
+      ]
+    },
+    "trap_077_rmtarmn": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_rmtarmn_1"
+      ],
+      "skins": [
+        "trap_077_rmtarmn#1"
+      ]
+    },
+    "trap_078_rmtarms": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_rmtarms_1"
+      ],
+      "skins": [
+        "trap_078_rmtarms#1"
+      ]
+    },
+    "trap_080_garage": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_garage_1",
+        "sktok_garage_2"
+      ],
+      "skins": [
+        "trap_080_garage#1"
+      ]
+    },
+    "trap_081_turngear": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_turngear"
+      ],
+      "skins": [
+        "trap_081_turngear#1"
+      ]
+    },
+    "trap_085_paras": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_paras"
+      ],
+      "skins": [
+        "trap_085_paras#1"
+      ]
+    },
+    "trap_090_recodr": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_recodr_1",
+        "sktok_recodr_2"
+      ],
+      "skins": [
+        "trap_090_recodr#1"
+      ]
+    },
+    "trap_091_brctrl": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_brctrl"
+      ],
+      "skins": [
+        "trap_091_brctrl#1"
+      ]
+    },
+    "char_230_savage": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_savage_1",
+        "skchr_savage_2"
+      ],
+      "skins": [
+        "char_230_savage#1",
+        "char_230_savage#2"
+      ]
+    },
+    "char_282_catap": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skchr_catap_1"
+      ],
+      "skins": [
+        "char_282_catap#1"
+      ]
+    },
+    "char_283_midn": {
+      "rarity": 2,
+      "obtainable": true,
+      "skills": [
+        "skchr_midn_1"
+      ],
+      "skins": [
+        "char_283_midn#1",
+        "char_283_midn@boc#1"
+      ]
+    },
+    "char_137_brownb": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_brownb_1",
+        "skchr_brownb_2"
+      ],
+      "skins": [
+        "char_137_brownb#1",
+        "char_137_brownb#2",
+        "char_137_brownb@kitchen#1"
+      ]
+    },
+    "char_347_jaksel": {
+      "rarity": 3,
+      "obtainable": true,
+      "skills": [
+        "skchr_jaksel_1",
+        "skchr_jaksel_2"
+      ],
+      "skins": [
+        "char_347_jaksel#1",
+        "char_347_jaksel#2",
+        "char_347_jaksel@whirlwind#2"
+      ]
+    },
+    "char_164_nightm": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skchr_nightm_1",
+        "skchr_nightm_2"
+      ],
+      "skins": [
+        "char_164_nightm#1",
+        "char_164_nightm#2",
+        "char_164_nightm@epoque#5"
+      ]
+    },
+    "char_220_grani": {
+      "rarity": 4,
+      "obtainable": true,
+      "skills": [
+        "skcom_def_up[3]",
+        "skchr_grani_2"
+      ],
+      "skins": [
+        "char_220_grani#1",
+        "char_220_grani#2",
+        "char_220_grani@epoque#6"
+      ]
+    },
+    "char_263_skadi": {
+      "rarity": 5,
+      "obtainable": true,
+      "skills": [
+        "skcom_quickattack[3]",
+        "skchr_skadi_2",
+        "skchr_skadi_3"
+      ],
+      "skins": [
+        "char_263_skadi#1",
+        "char_263_skadi#2",
+        "char_263_skadi@summer#3"
+      ]
+    },
+    "trap_065_normbox": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_normbox"
+      ],
+      "skins": [
+        "trap_065_normbox#1"
+      ]
+    },
+    "trap_066_rarebox": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_rarebox"
+      ],
+      "skins": [
+        "trap_066_rarebox#1"
+      ]
+    },
+    "trap_068_badbox": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_badbox"
+      ],
+      "skins": [
+        "trap_068_badbox#1"
+      ]
+    },
+    "trap_083_bunker": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_bunker"
+      ],
+      "skins": [
+        "trap_083_bunker#1"
+      ]
+    },
+    "trap_084_aidkit": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_aidkit"
+      ],
+      "skins": [
+        "trap_084_aidkit#1"
+      ]
+    },
+    "trap_079_allydonq": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_allydonq"
+      ],
+      "skins": [
+        "trap_079_allydonq#1"
+      ]
+    },
+    "trap_067_dice": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_dice"
+      ],
+      "skins": [
+        "trap_067_dice#1"
+      ]
+    },
+    "trap_088_dice2": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_dice2"
+      ],
+      "skins": [
+        "trap_088_dice2#1"
+      ]
+    },
+    "trap_089_dice3": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_dice3"
+      ],
+      "skins": [
+        "trap_089_dice3#1"
+      ]
+    },
+    "trap_093_tbattbc": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_tbattbc"
+      ],
+      "skins": [
+        "trap_093_tbattbc#1"
+      ]
+    },
+    "trap_094_tbpsnc": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_tbpsnc"
+      ],
+      "skins": [
+        "trap_094_tbpsnc#1"
+      ]
+    },
+    "trap_095_tbsmmc": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_tbsmmc"
+      ],
+      "skins": [
+        "trap_095_tbsmmc#1"
+      ]
+    },
+    "trap_086_larva": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_larva"
+      ],
+      "skins": [
+        "trap_086_larva#1"
+      ]
+    },
+    "trap_087_allady": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_allady",
+        "sktok_allady_2"
+      ],
+      "skins": [
+        "trap_087_allady#1"
+      ]
+    },
+    "trap_092_vgctrl": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_vgctrl"
+      ],
+      "skins": [
+        "trap_092_vgctrl#1"
+      ]
+    },
+    "trap_098_mire": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_mire"
+      ],
+      "skins": [
+        "trap_098_mire#1"
+      ]
+    },
+    "trap_096_gflag": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "trap_096_gflag#1"
+      ]
+    },
+    "trap_097_hstone": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "trap_097_hstone#1"
+      ]
+    },
+    "trap_103_ymdgct": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [],
+      "skins": [
+        "trap_103_ymdgct#1"
+      ]
+    },
+    "trap_099_mhflsb": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_mhflsb"
+      ],
+      "skins": [
+        "trap_099_mhflsb#1"
+      ]
+    },
+    "trap_100_mhlbmb": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_mhlbmb"
+      ],
+      "skins": [
+        "trap_100_mhlbmb#1"
+      ]
+    },
+    "trap_101_mhshok": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_mhshok"
+      ],
+      "skins": [
+        "trap_101_mhshok#1"
+      ]
+    },
+    "trap_102_mhwrbg": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_mhwrbg"
+      ],
+      "skins": [
+        "trap_102_mhwrbg#1"
+      ]
+    },
+    "trap_105_mhwrct": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_mhwrct"
+      ],
+      "skins": [
+        "trap_105_mhwrct#1"
+      ]
+    },
+    "trap_104_dplant": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_dplant"
+      ],
+      "skins": [
+        "trap_104_dplant#1"
+      ]
+    },
+    "trap_700_cdabyss": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cdabyss"
+      ],
+      "skins": [
+        "trap_700_cdabyss#1"
+      ]
+    },
+    "trap_701_cdabyssa": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cdabyssa"
+      ],
+      "skins": [
+        "trap_701_cdabyssa#1"
+      ]
+    },
+    "trap_702_cdabyssb": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cdabyssb"
+      ],
+      "skins": [
+        "trap_702_cdabyssb#1"
+      ]
+    },
+    "trap_703_cdcredit": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cdcredit"
+      ],
+      "skins": [
+        "trap_703_cdcredit#1"
+      ]
+    },
+    "trap_704_cdcredita": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cdcredita"
+      ],
+      "skins": [
+        "trap_704_cdcredita#1"
+      ]
+    },
+    "trap_705_cdcreditb": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cdcreditb"
+      ],
+      "skins": [
+        "trap_705_cdcreditb#1"
+      ]
+    },
+    "trap_706_cdshield": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cdshield"
+      ],
+      "skins": [
+        "trap_706_cdshield#1"
+      ]
+    },
+    "trap_707_cdshielda": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cdshielda"
+      ],
+      "skins": [
+        "trap_707_cdshielda#1"
+      ]
+    },
+    "trap_708_cdshieldb": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cdshieldb"
+      ],
+      "skins": [
+        "trap_708_cdshieldb#1"
+      ]
+    },
+    "trap_709_cdbeacon": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cdbeacon"
+      ],
+      "skins": [
+        "trap_709_cdbeacon#1"
+      ]
+    },
+    "trap_710_cdbeacona": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cdbeacona"
+      ],
+      "skins": [
+        "trap_710_cdbeacona#1"
+      ]
+    },
+    "trap_711_cdbeaconb": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cdbeaconb"
+      ],
+      "skins": [
+        "trap_711_cdbeaconb#1"
+      ]
+    },
+    "trap_712_cdhvrk": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cdhvrk"
+      ],
+      "skins": [
+        "trap_712_cdhvrk#1"
+      ]
+    },
+    "trap_713_cdflsb": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_cdflsb"
+      ],
+      "skins": [
+        "trap_713_cdflsb#1"
+      ]
+    },
+    "trap_400_xbfarm": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbfarm"
+      ],
+      "skins": [
+        "trap_400_xbfarm#1"
+      ]
+    },
+    "trap_404_xbfortress": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbfortress"
+      ],
+      "skins": [
+        "trap_404_xbfortress#1"
+      ]
+    },
+    "trap_405_xbroadblock": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbroadblock"
+      ],
+      "skins": [
+        "trap_405_xbroadblock#1"
+      ]
+    },
+    "trap_406_xboverwatch": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xboverwatch"
+      ],
+      "skins": [
+        "trap_406_xboverwatch#1"
+      ]
+    },
+    "trap_408_xbbase": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbbase"
+      ],
+      "skins": [
+        "trap_408_xbbase#1"
+      ]
+    },
+    "trap_409_xbwood": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbwood"
+      ],
+      "skins": [
+        "trap_409_xbwood#1"
+      ]
+    },
+    "trap_410_xbstone": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbstone"
+      ],
+      "skins": [
+        "trap_410_xbstone#1"
+      ]
+    },
+    "trap_411_xbiron": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbiron"
+      ],
+      "skins": [
+        "trap_411_xbiron#1"
+      ]
+    },
+    "trap_412_redtower": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_redtower"
+      ],
+      "skins": [
+        "trap_412_redtower#1"
+      ]
+    },
+    "trap_413_hiddenstone": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_hiddenstone"
+      ],
+      "skins": [
+        "trap_413_hiddenstone#1"
+      ]
+    },
+    "trap_414_vegetation": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_vegetation"
+      ],
+      "skins": [
+        "trap_414_vegetation#1"
+      ]
+    },
+    "trap_416_gtreasure": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_gtreasure"
+      ],
+      "skins": [
+        "trap_416_gtreasure#1"
+      ]
+    },
+    "trap_422_streasure": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_streasure"
+      ],
+      "skins": [
+        "trap_422_streasure#1"
+      ]
+    },
+    "trap_423_bondtw": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_bondtw"
+      ],
+      "skins": [
+        "trap_423_bondtw#1"
+      ]
+    },
+    "trap_424_pushtw": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_pushtw"
+      ],
+      "skins": [
+        "trap_424_pushtw#1"
+      ]
+    },
+    "trap_425_xbwall": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbwall"
+      ],
+      "skins": [
+        "trap_425_xbwall#1"
+      ]
+    },
+    "trap_426_xbmrcl": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbmrcl"
+      ],
+      "skins": [
+        "trap_426_xbmrcl#1"
+      ]
+    },
+    "trap_427_xbprsh": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbprsh"
+      ],
+      "skins": [
+        "trap_427_xbprsh#1"
+      ]
+    },
+    "trap_428_xblrsh": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xblrsh"
+      ],
+      "skins": [
+        "trap_428_xblrsh#1"
+      ]
+    },
+    "trap_429_xbescp": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbescp"
+      ],
+      "skins": [
+        "trap_429_xbescp#1"
+      ]
+    },
+    "trap_430_wdescp": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_wdescp"
+      ],
+      "skins": [
+        "trap_430_wdescp#1"
+      ]
+    },
+    "trap_431_xbgldn": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbgldn"
+      ],
+      "skins": [
+        "trap_431_xbgldn#1"
+      ]
+    },
+    "trap_401_xbfato": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbfato"
+      ],
+      "skins": [
+        "trap_401_xbfato#1"
+      ]
+    },
+    "trap_438_xbfato2": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbfato2"
+      ],
+      "skins": [
+        "trap_438_xbfato2#1"
+      ]
+    },
+    "trap_439_xbfato3": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_xbfato3"
+      ],
+      "skins": [
+        "trap_439_xbfato3#1"
+      ]
+    },
+    "trap_403_wfactory": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_wfactory"
+      ],
+      "skins": [
+        "trap_403_wfactory#1"
+      ]
+    },
+    "trap_417_shielder": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_shielder"
+      ],
+      "skins": [
+        "trap_417_shielder#1"
+      ]
+    },
+    "trap_418_smokebomb": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_smokebomb"
+      ],
+      "skins": [
+        "trap_418_smokebomb#1"
+      ]
+    },
+    "trap_419_enhancer": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_enhancer"
+      ],
+      "skins": [
+        "trap_419_enhancer#1"
+      ]
+    },
+    "trap_420_umbrella": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_umbrella"
+      ],
+      "skins": [
+        "trap_420_umbrella#1"
+      ]
+    },
+    "trap_421_repairman": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_repairman"
+      ],
+      "skins": [
+        "trap_421_repairman#1"
+      ]
+    },
+    "trap_415_trademan": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_trademan_1"
+      ],
+      "skins": [
+        "trap_415_trademan#1"
+      ]
+    },
+    "trap_432_oldisin": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_oldisin_1"
+      ],
+      "skins": [
+        "trap_432_oldisin#1"
+      ]
+    },
+    "trap_433_sandsdr": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_sandsdr_1",
+        "sktok_sandsdr_2"
+      ],
+      "skins": [
+        "trap_433_sandsdr#1"
+      ]
+    },
+    "trap_434_klmantc": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_klmantc_1",
+        "sktok_klmantc_2",
+        "sktok_klmantc_3"
+      ],
+      "skins": [
+        "trap_434_klmantc#1"
+      ]
+    },
+    "trap_435_trsrhuntr": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_trsrhuntr_1"
+      ],
+      "skins": [
+        "trap_435_trsrhuntr#1"
+      ]
+    },
+    "trap_437_poachr": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_poachr"
+      ],
+      "skins": [
+        "trap_437_poachr#1"
+      ]
+    },
+    "trap_116_stdurk": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_stdurk_1"
+      ],
+      "skins": [
+        "trap_116_stdurk#1"
+      ]
+    },
+    "trap_111_wdfarm": {
+      "rarity": 0,
+      "obtainable": true,
+      "skills": [
+        "sktok_wdfarm"
+      ],
+      "skins": [
+        "trap_111_wdfarm#1"
+      ]
+    }
+  },
+  "shopskins": [
+    "char_002_amiya@winter#1",
+    "char_181_flower@daily#1",
+    "char_002_amiya@epoque#4",
+    "char_202_demkni@test#1",
+    "char_002_amiya@test#1",
+    "char_250_phatom@sale#4",
+    "char_211_adnach@sale#5",
+    "char_210_stward@sale#6",
+    "char_437_mizuki@sale#7",
+    "char_103_angel@sale#8",
+    "char_208_melan@epoque#1",
+    "char_109_fmout@epoque#2",
+    "char_187_ccheal@epoque#2",
+    "char_128_plosis@epoque#3",
+    "char_215_mantic@epoque#4",
+    "char_164_nightm@epoque#5",
+    "char_213_mostma@epoque#5",
+    "char_274_astesi@epoque#5",
+    "char_220_grani@epoque#6",
+    "char_113_cqbw@epoque#7",
+    "char_102_texas@epoque#7",
+    "char_130_doberm@epoque#7",
+    "char_355_ethan@epoque#7",
+    "char_253_greyy@epoque#8",
+    "char_344_beewax@epoque#9",
+    "char_343_tknogi@epoque#9",
+    "char_181_flower@epoque#9",
+    "char_258_podego@epoque#9",
+    "char_126_shotst@epoque#10",
+    "char_265_sophia@epoque#11",
+    "char_151_myrtle@epoque#12",
+    "char_485_pallas@epoque#12",
+    "char_197_poca@epoque#12",
+    "char_218_cuttle@epoque#12",
+    "char_451_robin@epoque#13",
+    "char_479_sleach@epoque#14",
+    "char_473_mberry@epoque#14",
+    "char_402_tuye@epoque#14",
+    "char_337_utage@epoque#15",
+    "char_264_f12yin@epoque#15",
+    "char_475_akafyu@epoque#15",
+    "char_496_wildmn@epoque#16",
+    "char_472_pasngr@epoque#17",
+    "char_1014_nearl2@epoque#17",
+    "char_391_rosmon@epoque#17",
+    "char_449_glider@epoque#17",
+    "char_101_sora@epoque#17",
+    "char_492_quercu@epoque#17",
+    "char_4013_kjera@epoque#18",
+    "char_485_pallas@epoque#19",
+    "char_215_mantic@epoque#19",
+    "char_4036_forcer@epoque#20",
+    "char_358_lisa@epoque#22",
+    "char_388_mint@epoque#22",
+    "char_336_folivo@epoque#22",
+    "char_274_astesi@epoque#23",
+    "char_4039_horn@epoque#24",
+    "char_4045_heidi@epoque#24",
+    "char_297_hamoni@epoque#24",
+    "char_120_hibisc@nian#1",
+    "char_010_chen@nian#2",
+    "char_308_swire@nian#2",
+    "char_107_liskam@nian#2",
+    "char_235_jesica@nian#2",
+    "char_2014_nian@nian#4",
+    "char_225_haak@nian#4",
+    "char_226_hmau@nian#4",
+    "char_436_whispr@nian#4",
+    "char_225_haak@nian#5",
+    "char_1011_lava2@nian#6",
+    "char_2015_dusk@nian#7",
+    "char_455_nothin@nian#7",
+    "char_241_panda@nian#7",
+    "char_469_indigo@nian#7",
+    "char_1021_kroos2@nian#8",
+    "char_476_blkngt@nian#8",
+    "char_2023_ling@nian#9",
+    "char_497_ctable@nian#9",
+    "char_473_mberry@nian#9",
+    "char_136_hsguma@nian#3",
+    "char_2013_cerber@whirlwind#2",
+    "char_243_waaifu@whirlwind#2",
+    "char_347_jaksel@whirlwind#2",
+    "char_378_asbest@whirlwind#3",
+    "char_366_acdrop@whirlwind#4",
+    "char_147_shining@summer#1",
+    "char_166_skfire@summer#1",
+    "char_290_vigna@summer#1",
+    "char_212_ansel@summer#1",
+    "char_134_ifrit@summer#1",
+    "char_101_sora@summer#1",
+    "char_196_sunbr@summer#1",
+    "char_199_yak@summer#1",
+    "char_286_cast3@summer#1",
+    "char_148_nearl@summer#2",
+    "char_236_rope@summer#2",
+    "char_263_skadi@summer#3",
+    "char_145_prove@summer#3",
+    "char_204_platnm@summer#3",
+    "char_172_svrash@summer#4",
+    "char_2013_cerber@summer#4",
+    "char_201_moeshd@summer#4",
+    "char_337_utage@summer#4",
+    "char_180_amgoat@summer#5",
+    "char_291_aglina@summer#5",
+    "char_411_tomimi@summer#5",
+    "char_298_susuro@summer#6",
+    "char_144_red@summer#6",
+    "char_311_mudrok@summer#6",
+    "char_333_sidero@summer#6",
+    "char_272_strong@summer#6",
+    "char_171_bldsk@summer#7",
+    "char_426_billro@summer#8",
+    "char_131_flameb@summer#8",
+    "char_476_blkngt@summer#8",
+    "char_350_surtr@summer#9",
+    "char_421_crow@summer#9",
+    "char_401_elysm@summer#9",
+    "char_484_robrta@summer#10",
+    "char_241_panda@marthe#1",
+    "char_115_headbr@marthe#2",
+    "char_129_bluep@marthe#3",
+    "char_356_broca@marthe#4",
+    "char_179_cgbird@witch#1",
+    "char_171_bldsk@witch#1",
+    "char_236_rope@witch#1",
+    "char_124_kroos@witch#1",
+    "char_423_blemsh@witch#2",
+    "char_254_vodfox@witch#2",
+    "char_383_snsant@witch#2",
+    "char_328_cammou@witch#2",
+    "char_322_lmlee@witch#3",
+    "char_338_iris@witch#3",
+    "char_4016_kazema@witch#3",
+    "char_102_texas@winter#1",
+    "char_143_ghost@winter#1",
+    "char_198_blackd@winter#1",
+    "char_123_fang@winter#1",
+    "char_252_bibeak@winter#2",
+    "char_271_spikes@winter#2",
+    "char_237_gravel@winter#2",
+    "char_108_silent@winter#2",
+    "char_110_deepcl@winter#3",
+    "char_340_shwaz@snow#1",
+    "char_172_svrash@snow#1",
+    "char_174_slbell@snow#1",
+    "char_209_ardign@snow#1",
+    "char_400_weedy@snow#2",
+    "char_401_elysm@snow#2",
+    "char_158_milu@snow#2",
+    "char_426_billro@snow#3",
+    "char_373_lionhd@snow#3",
+    "char_214_kafka@snow#3",
+    "char_452_bstalk@snow#4",
+    "char_377_gdglow@snow#5",
+    "char_4043_erato@snow#5",
+    "char_1027_greyy2@snow#5",
+    "char_4004_pudd@snow#5",
+    "char_103_angel@wild#1",
+    "char_173_slchan@wild#1",
+    "char_117_myrrh@wild#1",
+    "char_150_snakek@wild#1",
+    "char_112_siege@wild#2",
+    "char_158_milu@wild#2",
+    "char_235_jesica@wild#2",
+    "char_358_lisa@wild#3",
+    "char_373_lionhd@wild#3",
+    "char_365_aprl@wild#3",
+    "char_345_folnic@wild#4",
+    "char_145_prove@wild#5",
+    "char_304_zebra@wild#6",
+    "char_4055_bgsnow@wild#7",
+    "char_4032_provs@wild#7",
+    "char_185_frncat@wild#7",
+    "char_219_meteo@sweep#1",
+    "char_108_silent@sweep#1",
+    "char_235_jesica@sweep#1",
+    "char_103_angel@kfc#1",
+    "char_134_ifrit@kfc#1",
+    "char_201_moeshd@kfc#1",
+    "char_173_slchan@wwf#1",
+    "char_202_demkni@boc#1",
+    "char_291_aglina@boc#1",
+    "char_140_whitew@boc#1",
+    "char_279_excu@boc#1",
+    "char_367_swllow@boc#1",
+    "char_283_midn@boc#1",
+    "char_122_beagle@boc#1",
+    "char_188_helage@boc#2",
+    "char_118_yuki@boc#2",
+    "char_264_f12yin@boc#3",
+    "char_416_zumama@boc#3",
+    "char_294_ayer@boc#3",
+    "char_415_flint@boc#3",
+    "char_284_spot@boc#3",
+    "char_1012_skadi2@boc#4",
+    "char_206_gnosis@boc#4",
+    "char_422_aurora@boc#4",
+    "char_285_medic2@boc#4",
+    "char_193_frostl@boc#4",
+    "char_474_glady@boc#5",
+    "char_248_mgllan@kitchen#1",
+    "char_195_glassb@kitchen#1",
+    "char_137_brownb@kitchen#1",
+    "char_250_phatom@ghost#1",
+    "char_242_otter@ghost#1",
+    "char_326_glacus@ghost#1",
+    "char_277_sqrrel@ghost#1",
+    "char_222_bpipe@race#1",
+    "char_456_ash@rainbow6#1",
+    "char_459_tachak@rainbow6#1",
+    "char_340_shwaz@striker#1",
+    "char_107_liskam@striker#1",
+    "char_112_siege@striker#2",
+    "char_155_tiger@striker#2",
+    "char_149_scave@striker#2",
+    "char_017_huang@as#1",
+    "char_198_blackd@as#1",
+    "char_290_vigna@as#1",
+    "char_311_mudrok@ambienceSynesthesia#2",
+    "char_486_takila@ambienceSynesthesia#2",
+    "char_261_sddrag@ambienceSynesthesia#2",
+    "char_293_thorns@it#1",
+    "char_350_surtr@it#1",
+    "char_115_headbr@it#1",
+    "char_358_lisa@lxh#1",
+    "char_4040_rockr@lxh#1",
+    "char_4077_palico@mh#1",
+    "char_332_archet@shining#1",
+    "char_274_astesi@shining#1",
+    "char_440_pinecn@shining#1",
+    "char_159_peacok@game#1",
+    "char_420_flamtl@game#2",
+    "char_346_aosta@game#2",
+    "char_478_kirara@game#2"
+  ],
+  "maxstatus": {
+    "0": {
+      "level": 30,
+      "potentialRank": 5,
+      "mainSkillLvl": 1,
+      "favorPoint": 240000
+    },
+    "1": {},
+    "2": {
+      "level": 55,
+      "mainSkillLvl": 7,
+      "evolvePhase": 1
+    },
+    "3": {
+      "level": 70,
+      "evolvePhase": 2
+    },
+    "4": {
+      "level": 80
+    },
+    "5": {
+      "level": 90
+    }
+  }
+}
